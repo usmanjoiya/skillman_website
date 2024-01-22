@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+     <template id="dash_footer" inherit_id="website.footer_custom" name="Footer">
+        <xpath expr="//div[@id='footer']" position="replace">
+
+        </xpath>
+     </template>
+</odoo>
