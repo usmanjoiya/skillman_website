@@ -1062,12 +1062,12 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 								<ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
 									<li
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55203 first depth-2">
-										<a href="https://skillman.eu/sif2022/" data-level="3"><span
+										<a href="/sif2022" data-level="3"><span
 												class="menu-item-text"><span class="menu-text">2022 International
 													Forum</span></span></a></li>
 									<li
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51729 depth-2">
-										<a href="https://skillman.eu/sif2021/" data-level="3"><span
+										<a href="/sif2021" data-level="3"><span
 												class="menu-item-text"><span class="menu-text">2021 International
 													Forum</span></span></a></li>
 									<li
@@ -1229,7 +1229,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 											service</span></span></a></li>
 							<li
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42437 depth-1">
-								<a href="https://skillman.eu/webinars-catalog/" data-level="2"><span
+								<a href="/webinars_catalog" data-level="2"><span
 										class="menu-item-text"><span class="menu-text">Webinars
 											catalog</span></span></a></li>
 							<li
@@ -1616,12 +1616,12 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 								<ul class="sub-nav gradient-hover level-arrows-on">
 									<li
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55203 first depth-2">
-										<a href="https://skillman.eu/sif2022/" data-level="3"><span
+										<a href="/sif2022" data-level="3"><span
 												class="menu-item-text"><span class="menu-text">2022 International
 													Forum</span></span></a></li>
 									<li
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51729 depth-2">
-										<a href="https://skillman.eu/sif2021/" data-level="3"><span
+										<a href="/sif2021" data-level="3"><span
 												class="menu-item-text"><span class="menu-text">2021 International
 													Forum</span></span></a></li>
 									<li
@@ -1786,7 +1786,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 											service</span></span></a></li>
 							<li
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42437 depth-1">
-								<a href="https://skillman.eu/webinars-catalog/" data-level="2"><span
+								<a href="/webinars_catalog" data-level="2"><span
 										class="menu-item-text"><span class="menu-text">Webinars
 											catalog</span></span></a></li>
 							<li
@@ -2739,7 +2739,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 							<tr>
 								<td style="width: 13.649%;" scope="col">
 									<div id="rcorners">
-										<h4 style="text-align: left;"><a href="https://skillman.eu/webinars-catalog/"
+										<h4 style="text-align: left;"><a href="/webinars_catalog"
 												target="_blank" rel="noopener"><strong><img decoding="async"
 														class="aligncenter wp-image-51481"
 														src="https://skillman.eu/wp-content/uploads/2022/04/icon-website-4-1-300x292.png"
@@ -2749,7 +2749,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 									</div>
 								</td>
 								<td style="width: 77.5766%;" scope="col">
-									<div id="rcorners1"><a href="https://skillman.eu/webinars-catalog/" target="_blank"
+									<div id="rcorners1"><a href="/webinars_catalog" target="_blank"
 											rel="noopener"><strong><span style="color: #999999;"><span
 														style="font-weight: 400;"><strong>D28 – 32 EUROPEAN VOCATIONAL
 															SKILLS WEEK SEMINARS</strong></span></span></strong></a>
@@ -3731,7 +3731,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 							<tr>
 								<td style="width: 13.649%;" scope="col">
 									<div id="rcorners">
-										<h4 style="text-align: left;"><a href="https://skillman.eu/webinars-catalog/"
+										<h4 style="text-align: left;"><a href="/webinars_catalog"
 												target="_blank" rel="noopener"><strong><img decoding="async"
 														class="aligncenter wp-image-51481"
 														src="https://skillman.eu/wp-content/uploads/2022/04/icon-website-4-1-300x292.png"
@@ -3742,7 +3742,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 								</td>
 								<td style="width: 77.5766%;" scope="col">
 									<div id="rcorners1">
-										<div id="rcorners1"><a href="https://skillman.eu/webinars-catalog/"
+										<div id="rcorners1"><a href="/webinars_catalog"
 												target="_blank" rel="noopener"><strong><span style="color: #999999;">D56
 														– Skillman.eu dissemination webinars&#160;</span></strong></a>
 										</div>
@@ -4520,12 +4520,12 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 								<ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
 									<li
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55203 first depth-2">
-										<a href="https://skillman.eu/sif2022/" data-level="3"><span
+										<a href="/sif2022" data-level="3"><span
 												class="menu-item-text"><span class="menu-text">2022 International
 													Forum</span></span></a></li>
 									<li
 										class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51729 depth-2">
-										<a href="https://skillman.eu/sif2021/" data-level="3"><span
+										<a href="/sif2021" data-level="3"><span
 												class="menu-item-text"><span class="menu-text">2021 International
 													Forum</span></span></a></li>
 									<li
@@ -4687,7 +4687,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 											service</span></span></a></li>
 							<li
 								class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42437 depth-1">
-								<a href="https://skillman.eu/webinars-catalog/" data-level="2"><span
+								<a href="/webinars_catalog" data-level="2"><span
 										class="menu-item-text"><span class="menu-text">Webinars
 											catalog</span></span></a></li>
 							<li

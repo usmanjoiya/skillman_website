@@ -390,7 +390,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
             <link rel="wlwmanifest" type="application/wlwmanifest+xml"
                   href="https://skillman.eu/wp-includes/wlwmanifest.xml"/>
 
-            <link rel="canonical" href="https://skillman.eu/webinars-catalog/"/>
+            <link rel="canonical" href="/webinars_catalog"/>
             <link rel="shortlink" href="https://skillman.eu/?p=42436"/>
             <link rel="alternate" type="application/json+oembed"
                   href="https://skillman.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskillman.eu%2Fwebinars-catalog%2F"/>
@@ -398,7 +398,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                   href="https://skillman.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskillman.eu%2Fwebinars-catalog%2F&amp;format=xml"/>
             <meta property="og:site_name" content="skillman.eu"/>
             <meta property="og:title" content="Webinars catalog"/>
-            <meta property="og:url" content="https://skillman.eu/webinars-catalog/"/>
+            <meta property="og:url" content="/webinars_catalog"/>
             <meta property="og:type" content="article"/>
             <meta name="generator"
                   content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
@@ -1208,14 +1208,14 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                         <ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55203 first depth-2">
-                                                <a href="https://skillman.eu/sif2022/" data-level="3">
+                                                <a href="/sif2022" data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">2022 International Forum</span>
                                                     </span>
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51729 depth-2">
-                                                <a href="https://skillman.eu/sif2021/" data-level="3">
+                                                <a href="/sif2021" data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">2021 International Forum</span>
                                                     </span>
@@ -1452,7 +1452,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-42436 current_page_item menu-item-42437 act depth-1">
-                                        <a href="https://skillman.eu/webinars-catalog/" data-level="2">
+                                        <a href="/webinars_catalog" data-level="2">
                                             <span class="menu-item-text">
                                                 <span class="menu-text">Webinars catalog</span>
                                             </span>
@@ -1466,7 +1466,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                         <ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44348 first depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-1-advanced-manufacturing-sector-publication/"
+                                                <a href="/peer-learning-club-1-advanced-manufacturing-sector-publication"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 1- Advanced
@@ -1476,7 +1476,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44392 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-2-advocacy-policy-influencing/"
+                                                <a href="/peer-learning-club-2-advocacy-policy-influencing"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 2 – Advocacy &amp;
@@ -1486,7 +1486,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44391 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-3-work-based-learning-and-standards/"
+                                                <a href="/peer-learning-club-3-work-based-learning-and-standards"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 3 – Work-based
@@ -1496,7 +1496,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44390 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-4-train-the-trainers/"
+                                                <a href="/peer-learning-club-4-train-the-trainers"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 4 – Train the
@@ -1515,7 +1515,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36969 depth-1">
-                                        <a href="https://skillman.eu/e-newsletter/" data-level="2">
+                                        <a href="/e_newsletter" data-level="2">
                                             <span class="menu-item-text">
                                                 <span class="menu-text">E-newsletter</span>
                                             </span>
@@ -2037,14 +2037,14 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </i>
                                         <ul class="sub-nav gradient-hover level-arrows-on">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55203 first depth-2">
-                                                <a href="https://skillman.eu/sif2022/" data-level="3">
+                                                <a href="/sif2022" data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">2022 International Forum</span>
                                                     </span>
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51729 depth-2">
-                                                <a href="https://skillman.eu/sif2021/" data-level="3">
+                                                <a href="/sif2021" data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">2021 International Forum</span>
                                                     </span>
@@ -2295,7 +2295,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-42436 current_page_item menu-item-42437 act depth-1">
-                                        <a href="https://skillman.eu/webinars-catalog/" data-level="2">
+                                        <a href="/webinars_catalog" data-level="2">
                                             <span class="menu-item-text">
                                                 <span class="menu-text">Webinars catalog</span>
                                             </span>
@@ -2312,7 +2312,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </i>
                                         <ul class="sub-nav gradient-hover level-arrows-on">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44348 first depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-1-advanced-manufacturing-sector-publication/"
+                                                <a href="/peer-learning-club-1-advanced-manufacturing-sector-publication"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 1- Advanced
@@ -2322,7 +2322,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44392 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-2-advocacy-policy-influencing/"
+                                                <a href="/peer-learning-club-2-advocacy-policy-influencing"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 2 – Advocacy &amp;
@@ -2332,7 +2332,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44391 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-3-work-based-learning-and-standards/"
+                                                <a href="/peer-learning-club-3-work-based-learning-and-standards"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 3 – Work-based
@@ -2342,7 +2342,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44390 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-4-train-the-trainers/"
+                                                <a href="/peer-learning-club-4-train-the-trainers"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 4 – Train the
@@ -2361,7 +2361,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36969 depth-1">
-                                        <a href="https://skillman.eu/e-newsletter/" data-level="2">
+                                        <a href="/e_newsletter" data-level="2">
                                             <span class="menu-item-text">
                                                 <span class="menu-text">E-newsletter</span>
                                             </span>
@@ -2527,7 +2527,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                                      title="skillman-1280x640"
                                                                      srcset="https://skillman.eu/wp-content/uploads/2020/04/skillman-1280x640-300x150.jpg 300w, https://skillman.eu/wp-content/uploads/2020/04/skillman-1280x640-600x300.jpg 600w, https://skillman.eu/wp-content/uploads/2020/04/skillman-1280x640-768x384.jpg 768w, https://skillman.eu/wp-content/uploads/2020/04/skillman-1280x640-1024x512.jpg 1024w, https://skillman.eu/wp-content/uploads/2020/04/skillman-1280x640.jpg 1280w"
                                                                      sizes="(max-width: 300px) 100vw, 300px"
-                                                                     data-dt-location="https://skillman.eu/webinars-catalog/skillman-1280x640/"/>
+                                                                     data-dt-location="/webinars_catalogskillman-1280x640/"/>
                                                                 <i></i>
                                                             </a>
                                                         </figure>
@@ -3583,7 +3583,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                         <ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55203 first depth-2">
-                                                <a href="https://skillman.eu/sif2022/" data-level="3">
+                                                <a href="/sif2022" data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">2022 International Forum</span>
                                                     </span>
@@ -3827,7 +3827,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-42436 current_page_item menu-item-42437 act depth-1">
-                                        <a href="https://skillman.eu/webinars-catalog/" data-level="2">
+                                        <a href="/webinars_catalog" data-level="2">
                                             <span class="menu-item-text">
                                                 <span class="menu-text">Webinars catalog</span>
                                             </span>
@@ -3841,7 +3841,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                         <ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44348 first depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-1-advanced-manufacturing-sector-publication/"
+                                                <a href="/peer-learning-club-1-advanced-manufacturing-sector-publication"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 1- Advanced
@@ -3851,7 +3851,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44392 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-2-advocacy-policy-influencing/"
+                                                <a href="/peer-learning-club-2-advocacy-policy-influencing"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 2 – Advocacy &amp;
@@ -3861,7 +3861,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44391 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-3-work-based-learning-and-standards/"
+                                                <a href="/peer-learning-club-3-work-based-learning-and-standards"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 3 – Work-based
@@ -3871,7 +3871,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </a>
                                             </li>
                                             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44390 depth-2">
-                                                <a href="https://skillman.eu/peer-learning-club-4-train-the-trainers/"
+                                                <a href="/peer-learning-club-4-train-the-trainers"
                                                    data-level="3">
                                                     <span class="menu-item-text">
                                                         <span class="menu-text">Peer Learning Club 4 – Train the
@@ -3890,7 +3890,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         </a>
                                     </li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36969 depth-1">
-                                        <a href="https://skillman.eu/e-newsletter/" data-level="2">
+                                        <a href="/e_newsletter" data-level="2">
                                             <span class="menu-item-text">
                                                 <span class="menu-text">E-newsletter</span>
                                             </span>

