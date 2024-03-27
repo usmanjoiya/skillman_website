@@ -20,15 +20,15 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base','website'],
+    'depends': ['base','website','website_blog'],
 
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
         'views/views.xml',
         'views/templates.xml',
-        # 'data/header.xml',
-        # 'data/footer.xml',
+        'data/header.xml',
+        'data/footer.xml',
         'data/index.xml',
         'data/lifecycle_concept.xml',
         'data/skills.xml',
@@ -50,6 +50,7 @@
         'data/as2023.xml',
         'data/sif2022.xml',
         'data/sif2021.xml',
+        'data/sif2020.xml',
         'data/e_newsletter.xml',
         'data/ethical_campaign_to_redefine_the_future_of_learning.xml',
         'data/peer-learning-club-1-advanced-manufacturing-sector-publication.xml',
@@ -100,7 +101,7 @@
     'assets': {
         'web.assets_frontend': [
             '/skillman_website/static/src/css/rs6.css',
-            '/skillman_website/static/src/js/rs6.js',
+            # '/skillman_website/static/src/js/rs6.js',
 
         ],
     }

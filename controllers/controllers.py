@@ -1,11 +1,15 @@
 # -*- coding: utf-8 -*-
 from odoo import http
+from odoo.http import request
 
 
 class SkillmanWebsite(http.Controller):
     @http.route('/', auth='public', type='http', website=True)
     def home(self, **kw):
-        return http.request.render('skillman_website.home')
+        values = {
+            'blogs': request.env['blog.post'].search([], limit=6)
+        }
+        return http.request.render('skillman_website.home', values)
 
     @http.route('/lifecycle-concept', auth='public', type='http', website=True)
     def lifecycle(self, **kw):
@@ -80,12 +84,16 @@ class SkillmanWebsite(http.Controller):
         return http.request.render('skillman_website.as2022')
 
     @http.route('/sif2022', auth='public', type='http', website=True)
-    def sif(self, **kw):
+    def sif2(self, **kw):
         return http.request.render('skillman_website.sif2022')
 
     @http.route('/sif2021', auth='public', type='http', website=True)
     def sif1(self, **kw):
         return http.request.render('skillman_website.sif2021')
+
+    @http.route('/sif2020', auth='public', type='http', website=True)
+    def sif0(self, **kw):
+        return http.request.render('skillman_website.sif2020')
 
     @http.route('/e_newsletter', auth='public', type='http', website=True)
     def e_newsletter(self, **kw):
@@ -99,7 +107,8 @@ class SkillmanWebsite(http.Controller):
     def ethical_campaign_to_redefine_the_future_of_learning(self, **kw):
         return http.request.render('skillman_website.ethical_campaign_to_redefine_the_future_of_learning')
 
-    @http.route('/peer-learning-club-1-advanced-manufacturing-sector-publication', auth='public', type='http', website=True)
+    @http.route('/peer-learning-club-1-advanced-manufacturing-sector-publication', auth='public', type='http',
+                website=True)
     def learning_club1(self, **kw):
         return http.request.render('skillman_website.peer-learning-club-1-advanced-manufacturing-sector-publication')
 
@@ -250,7 +259,6 @@ class SkillmanWebsite(http.Controller):
     @http.route('/the_conference', auth='public', type='http', website=True)
     def the_conference(self, **kw):
         return http.request.render('skillman_website.the_conference')
-
 
 #     @http.route('/skillman_website/skillman_website/objects/', auth='public')
 #     def list(self, **kw):
