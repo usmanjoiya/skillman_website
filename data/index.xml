@@ -2,6 +2,7 @@
 <odoo>
     <template id="home">
         <t t-call="website.layout">
+
             <head>
                 <meta charset="UTF-8"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
@@ -2278,7 +2279,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                                         </div>
                                                                         <div class="entry-excerpt"
                                                                              style="max-height: 5.5em; overflow: hidden;">
-                                                                            <t t-esc="blog.content"
+                                                                            <t t-esc="blog.content_wo_html"
                                                                                t-options='{"widget": "text", "truncate": 3, "ellipsis": true}'/>
                                                                         </div>
 

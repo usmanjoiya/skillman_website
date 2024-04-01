@@ -2,6 +2,13 @@
 <odoo>
      <template id="dash_footer" inherit_id="website.footer_custom" name="Footer">
         <xpath expr="//div[@id='footer']" position="replace">
+            <style>
+                #o_wblog_post_name {
+                    font-weight: 600 !important;
+                    line-height: 1.2 !important;
+                    font-size: 20px !important;
+                }
+            </style>
             <footer id="footer" class="footer solid-bg" data-oe-model="ir.ui.view" data-oe-id="798" data-oe-field="arch" data-oe-xpath="/t[1]/t[1]/body[1]/div[2]/footer[1]">
 
                         <div class="wf-wrap">

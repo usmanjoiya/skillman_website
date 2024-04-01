@@ -58,26 +58,7 @@
                         <img class="d-block w-100" src="/skillman_website/static/src/images/SWOST-slider.jpg"
                              alt="First slide"/>
                     </div>
-                    <div class="carousel-item">
-                        <div class="slider_data">
-                            <div class="slider_text_1">
-                                <h1>INTERNATIONAL WEBINAR</h1>
-                            </div>
-                            <div class="slider_text_2">
-                                <h1>ON GENDER EQUALITY IN SPORTS</h1>
-                            </div>
-                            <div class="slider_text_3">
-                                <div class="swost_heading">
-                                    <h2>#SWOST</h2>
-                                </div>
-                                <div class="watch_btn">
-                                    <h2>(RE)WATCH</h2>
-                                </div>
-                            </div>
-                        </div>
-                        <img class="d-block w-100" src="/skillman_website/static/src/images/gray_slide.png"
-                             alt="Second slide"/>
-                    </div>
+
                     <div class="carousel-item">
                         <div class="slider_data">
                             <div class="slider_text_1">
