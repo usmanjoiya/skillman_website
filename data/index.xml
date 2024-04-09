@@ -2279,7 +2279,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                                         </div>
                                                                         <div class="entry-excerpt"
                                                                              style="max-height: 5.5em; overflow: hidden;">
-                                                                            <t t-esc="blog.content_wo_html"
+                                                                            <t t-esc="blog.content"
                                                                                t-options='{"widget": "text", "truncate": 3, "ellipsis": true}'/>
                                                                         </div>
 

@@ -2,23 +2,12 @@
 from odoo import http
 from odoo.http import request
 
-try:
-    from bs4 import BeautifulSoup
-except ImportError:
-    raise ImportError(
-        "The 'bs4' library is required for this functionality. Please install it using 'pip install bs4'.")
-
 
 class SkillmanWebsite(http.Controller):
     @http.route('/', auth='public', type='http', website=True)
     def home(self, **kw):
-        blogs = request.env['blog.post'].search([], limit=6)
-        for blog in blogs:
-            content = BeautifulSoup(blog.content, 'html.parser').get_text()
-            new_blog = request.env['blog.post'].search([('id', '=', blog.id)])
-            new_blog.write({'content_wo_html': content.replace('\n', '')})
         values = {
-            'blogs': blogs
+            'blogs': request.env['blog.post'].search([], limit=6)
         }
         return http.request.render('skillman_website.home', values)
 
