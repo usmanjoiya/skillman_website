@@ -39,7 +39,7 @@ class SkillmanWebsite(http.Controller):
     def esco(self, **kw):
         return http.request.render('skillman_website.esco_skills_competencies_occupations')
 
-    @http.route('/submit_your_candidature', auth='public', type='http', website=True)
+    @http.route('/submit-your-candidature', auth='public', type='http', website=True)
     def submit(self, **kw):
         return http.request.render('skillman_website.submit_your_candidature')
 
@@ -47,7 +47,7 @@ class SkillmanWebsite(http.Controller):
     def awards_candidatures(self, **kw):
         return http.request.render('skillman_website.awards-candidatures')
 
-    @http.route('/awards_2', auth='public', type='http', website=True)
+    @http.route('/awards-2', auth='public', type='http', website=True)
     def awards(self, **kw):
         return http.request.render('skillman_website.awards_2')
 
@@ -55,23 +55,23 @@ class SkillmanWebsite(http.Controller):
     def timeline(self, **kw):
         return http.request.render('skillman_website.timeline')
 
-    @http.route('/include_skillman_in_a_new_project_partnership', auth='public', type='http', website=True)
+    @http.route('/include-skillman-in-a-new-project-partnership', auth='public', type='http', website=True)
     def partnership(self, **kw):
         return http.request.render('skillman_website.include_skillman_in_a_new_project_partnership')
 
-    @http.route('/submit_your_idea', auth='public', type='http', website=True)
+    @http.route('/submit-your-idea', auth='public', type='http', website=True)
     def idea(self, **kw):
         return http.request.render('skillman_website.submit_your_idea')
 
-    @http.route('/skillnet_management_platform', auth='public', type='http', website=True)
+    @http.route('/skillnet-management-platform', auth='public', type='http', website=True)
     def smp(self, **kw):
         return http.request.render('skillman_website.skillnet_management_platform')
 
-    @http.route('/skillnet_2022', auth='public', type='http', website=True)
+    @http.route('/skillnet-2022', auth='public', type='http', website=True)
     def skillnet(self, **kw):
         return http.request.render('skillman_website.skillnet_2022')
 
-    @http.route('/gender_equality', auth='public', type='http', website=True)
+    @http.route('/gender-equality', auth='public', type='http', website=True)
     def gender(self, **kw):
         return http.request.render('skillman_website.gender')
 
@@ -95,15 +95,15 @@ class SkillmanWebsite(http.Controller):
     def sif0(self, **kw):
         return http.request.render('skillman_website.sif2020')
 
-    @http.route('/e_newsletter', auth='public', type='http', website=True)
+    @http.route('/e-newsletter', auth='public', type='http', website=True)
     def e_newsletter(self, **kw):
         return http.request.render('skillman_website.e_newsletter')
 
-    @http.route('/skillman_youth_forum', auth='public', type='http', website=True)
+    @http.route('/skillman-youth-forum', auth='public', type='http', website=True)
     def skillman_youth_forum(self, **kw):
         return http.request.render('skillman_website.skillman_youth_forum')
 
-    @http.route('/ethical_campaign_to_redefine_the_future_of_learning', auth='public', type='http', website=True)
+    @http.route('/ethical-campaign-to-redefine-the-future-of-learning', auth='public', type='http', website=True)
     def ethical_campaign_to_redefine_the_future_of_learning(self, **kw):
         return http.request.render('skillman_website.ethical_campaign_to_redefine_the_future_of_learning')
 
@@ -124,51 +124,51 @@ class SkillmanWebsite(http.Controller):
     def learning_club4(self, **kw):
         return http.request.render('skillman_website.peer-learning-club-4-train-the-trainers')
 
-    @http.route('/skillman_advisory_service', auth='public', type='http', website=True)
+    @http.route('/skillman-advisory-service', auth='public', type='http', website=True)
     def skillman_advisory_service(self, **kw):
         return http.request.render('skillman_website.skillman_advisory_service')
 
-    @http.route('/webinars_catalog', auth='public', type='http', website=True)
+    @http.route('/webinars-catalog', auth='public', type='http', website=True)
     def webinars_catalog(self, **kw):
         return http.request.render('skillman_website.webinars_catalog')
 
-    @http.route('/skillman_technical_webinars', auth='public', type='http', website=True)
+    @http.route('/skillman-technical-webinars', auth='public', type='http', website=True)
     def skillman_technical_webinars(self, **kw):
         return http.request.render('skillman_website.skillman_technical_webinars')
 
-    @http.route('/webinars_on_eu_fund_opportunities', auth='public', type='http', website=True)
+    @http.route('/webinars-on-eu-fund-opportunities', auth='public', type='http', website=True)
     def webinars_on_eu_fund_opportunities(self, **kw):
         return http.request.render('skillman_website.webinars_on_eu_fund_opportunities')
 
-    @http.route('/peer_learning_clubs', auth='public', type='http', website=True)
+    @http.route('/peer-learning-clubs', auth='public', type='http', website=True)
     def peer_learning_clubs(self, **kw):
         return http.request.render('skillman_website.peer_learning_clubs')
 
-    @http.route('/skillman_eu_international_forum_2018', auth='public', type='http', website=True)
+    @http.route('/skillman-eu-international-forum-2018', auth='public', type='http', website=True)
     def skillman_eu_international_forum_2018(self, **kw):
         return http.request.render('skillman_website.skillman_eu_international_forum_2018')
 
-    @http.route('/skillman_eu_international_forum_2019', auth='public', type='http', website=True)
+    @http.route('/skillman-eu-international-forum-2019', auth='public', type='http', website=True)
     def skillman_eu_international_forum_2019(self, **kw):
         return http.request.render('skillman_website.skillman_eu_international_forum_2019')
 
-    @http.route('/tvet_digital_triathlon', auth='public', type='http', website=True)
+    @http.route('/tvet-digital-triathlon', auth='public', type='http', website=True)
     def tvet_digital_triathlon(self, **kw):
         return http.request.render('skillman_website.tvet_digital_triathlon')
 
-    @http.route('/skillman_at_the_european_skills_week_2020', auth='public', type='http', website=True)
+    @http.route('/skillman-at-the-european-skills-week-2020', auth='public', type='http', website=True)
     def skillman_at_the_european_skills_week_2020(self, **kw):
         return http.request.render('skillman_website.skillman_at_the_european_skills_week_2020')
 
-    @http.route('/second_international_conference', auth='public', type='http', website=True)
+    @http.route('/second-international-conference', auth='public', type='http', website=True)
     def second_international_conference(self, **kw):
         return http.request.render('skillman_website.second_international_conference')
 
-    @http.route('/2015_international_conference', auth='public', type='http', website=True)
+    @http.route('/2015-international-conference', auth='public', type='http', website=True)
     def international_conference_2015(self, **kw):
         return http.request.render('skillman_website.2015_international_conference')
 
-    @http.route('/2016_international_conference', auth='public', type='http', website=True)
+    @http.route('/2016-international-conference', auth='public', type='http', website=True)
     def international_conference_2016(self, **kw):
         return http.request.render('skillman_website.2016_international_conference')
 
@@ -232,11 +232,11 @@ class SkillmanWebsite(http.Controller):
     def sas(self, **kw):
         return http.request.render('skillman_website.sas')
 
-    @http.route('/skillnet_events', auth='public', type='http', website=True)
+    @http.route('/skillnet-events', auth='public', type='http', website=True)
     def skillnet_events(self, **kw):
         return http.request.render('skillman_website.skillnet_events')
 
-    @http.route('/tc_5', auth='public', type='http', website=True)
+    @http.route('/tec-5', auth='public', type='http', website=True)
     def tc_5(self, **kw):
         return http.request.render('skillman_website.tc_5')
 
@@ -244,7 +244,7 @@ class SkillmanWebsite(http.Controller):
     def ambassadors(self, **kw):
         return http.request.render('skillman_website.ambassadors')
 
-    @http.route('/members_list', auth='public', type='http', website=True)
+    @http.route('/members-list', auth='public', type='http', website=True)
     def members_list(self, **kw):
         return http.request.render('skillman_website.members_list')
 
@@ -252,11 +252,11 @@ class SkillmanWebsite(http.Controller):
     def members(self, **kw):
         return http.request.render('skillman_website.members')
 
-    @http.route('/new_event', auth='public', type='http', website=True)
+    @http.route('/new-event', auth='public', type='http', website=True)
     def new_event(self, **kw):
         return http.request.render('skillman_website.new_event')
 
-    @http.route('/the_conference', auth='public', type='http', website=True)
+    @http.route('/the-conference', auth='public', type='http', website=True)
     def the_conference(self, **kw):
         return http.request.render('skillman_website.the_conference')
 

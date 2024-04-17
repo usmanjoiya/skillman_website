@@ -2387,7 +2387,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                 </div>
                                             </div>
                                             <div class="vc_row wpb_row vc_row-fluid full-width-wrap dt-default"
-                                                 style="padding-left: 0px; padding-right: 0px; margin-top: 0px; margin-bottom: 0px; width: 385px; opacity: 1; margin-left: -20px; min-height: 0px;">
+                                                 style="padding-left: 0px; padding-right: 0px; margin-top: 0px; margin-bottom: 0px; opacity: 1; margin-left: -20px; min-height: 0px;">
                                                 <div data-vc-parallax="2.5"
                                                      data-vc-parallax-image="https://skillman.eu/wp-content/uploads/2021/09/WIP-1.jpg"
                                                      class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill vc_general vc_parallax vc_parallax-content-moving">

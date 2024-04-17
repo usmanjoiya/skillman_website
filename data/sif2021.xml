@@ -4418,7 +4418,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 
                                                         </div>
                                                     </div>
-                                                    <div class="vc_btn3-container vc_btn3-center">
+                                                    <div class="vc_btn3-container vc_btn3-center" style="margin-bottom:70px;">
                                                         <a class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-rounded vc_btn3-style-modern vc_btn3-color-primary"
                                                            href="https://learn.skillman.eu/course/view.php?id=146"
                                                            title="REGISTER NOW SIF 2021">REGISTER NOW

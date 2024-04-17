@@ -81,27 +81,27 @@
                         <img class="d-block w-100" src="/skillman_website/static/src/images/sddefault.jpg"
                              alt="Third slide"/>
                     </div>
-                    <div class="carousel-item">
-                        <div class="slider_data">
-                            <div class="slider_text_1">
-                                <h1>WEBINAR | 6 FEBRUARY</h1>
-                            </div>
-                            <div class="slider_text_2">
-                                <h1>ENE-SKILLMAN.EU COOPERATION <br/> OPPORTUNITIES FOR 2024</h1>
-                            </div>
-                            <div class="slider_text_3">
-                                <div class="swost_heading">
-                                    <h2>#WELOVESKILLS</h2>
-                                </div>
-                                <div class="watch_btn">
-                                    <h2>REWATCH</h2>
-                                </div>
-                            </div>
-                        </div>
-                        <img class="d-block w-100"
-                             src="/skillman_website/static/src/images/cover_webinar-e1706801953450.jpg"
-                             alt="Second slide"/>
-                    </div>
+<!--                    <div class="carousel-item">-->
+<!--                        <div class="slider_data">-->
+<!--                            <div class="slider_text_1">-->
+<!--                                <h1>WEBINAR | 6 FEBRUARY</h1>-->
+<!--                            </div>-->
+<!--                            <div class="slider_text_2">-->
+<!--                                <h1>ENE-SKILLMAN.EU COOPERATION <br/> OPPORTUNITIES FOR 2024</h1>-->
+<!--                            </div>-->
+<!--                            <div class="slider_text_3">-->
+<!--                                <div class="swost_heading">-->
+<!--                                    <h2>#WELOVESKILLS</h2>-->
+<!--                                </div>-->
+<!--                                <div class="watch_btn">-->
+<!--                                    <h2>REWATCH</h2>-->
+<!--                                </div>-->
+<!--                            </div>-->
+<!--                        </div>-->
+<!--                        <img class="d-block w-100"-->
+<!--                             src="/skillman_website/static/src/images/cover_webinar-e1706801953450.jpg"-->
+<!--                             alt="Second slide"/>-->
+<!--                    </div>-->
                     <div class="carousel-item">
                         <div class="slider_data">
                             <div class="slider_text_1">
