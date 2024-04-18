@@ -1924,7 +1924,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 									</div>
 								</div>
 							</div>
-							<div class="stripe stripe-style-1"
+							<div class="stripe-style-1"
 								style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
 								<div class="vc_row wpb_row vc_row-fluid" style="">
 									<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -1947,7 +1947,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 									</div>
 								</div>
 							</div>
-							<div class="stripe stripe-style-1"
+							<div class="stripe-style-1"
 								style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
 								<div class="vc_row wpb_row vc_row-fluid" style="">
 									<div class="wpb_column vc_column_container vc_col-sm-6">
@@ -2038,7 +2038,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 									</div>
 								</div>
 							</div>
-							<div class="stripe stripe-style-1"
+							<div class="stripe-style-1"
 								style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
 								<div class="vc_row wpb_row vc_row-fluid" style="">
 									<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -2237,7 +2237,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 									</div>
 								</div>
 							</div>
-							<div class="stripe stripe-style-1"
+							<div class="stripe-style-1"
 								style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
 								<div class="vc_row wpb_row vc_row-fluid" style="">
 									<div class="wpb_column vc_column_container vc_col-sm-12">
@@ -2325,7 +2325,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 									</div>
 								</div>
 							</div>
-							<div class="stripe stripe-style-5"
+							<div class="stripe-style-5"
 								style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
 								<div class="vc_row wpb_row vc_row-fluid" style="">
 									<div class="wpb_column vc_column_container vc_col-sm-1/5">

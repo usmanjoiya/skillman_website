@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template id="cscs" name="skillman_website">
+        <t t-call="website.layout">
         <head>
             <meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
@@ -3486,5 +3487,6 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
             <div class="dt-posts-preload-activity"></div>
         </div>
     </body>
+        </t>
 </template>
         </odoo>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template id="peer-learning-club-1-advanced-manufacturing-sector-publication" name="skillman_web">
-        <!--                        <t t-call="website.layout">-->
+                                <t t-call="website.layout">
         <head>
             <meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
@@ -2481,16 +2481,16 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 
 
                                     <div id="respond" class="comment-respond">
-                                        <h3 id="reply-title" class="comment-reply-title">Leave a Reply
-                                            <small>
-                                                <a rel="nofollow" id="cancel-comment-reply-link"
-                                                   href="/peer-learning-club-1-advanced-manufacturing-sector-publication/#respond"
-                                                   style="display:none;">Cancel reply
-                                                </a>
-                                            </small>
-                                        </h3>
+<!--                                        <h3 id="reply-title" class="comment-reply-title">Leave a Reply-->
+<!--                                            <small>-->
+<!--                                                <a rel="nofollow" id="cancel-comment-reply-link"-->
+<!--                                                   href="/peer-learning-club-1-advanced-manufacturing-sector-publication/#respond"-->
+<!--                                                   style="display:none;">Cancel reply-->
+<!--                                                </a>-->
+<!--                                            </small>-->
+<!--                                        </h3>-->
                                         <p class="must-log-in text-small">You must be <a
-                                                href="https://skillman.eu/wp-login.php?redirect_to=https%3A%2F%2Fskillman.eu%2Fpeer-learning-club-1-advanced-manufacturing-sector-publication%2F">
+                                                href="">
                                             logged in
                                         </a> to post a comment.
                                         </p>
@@ -3340,6 +3340,6 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
         </body>
 
 
-        <!--                        </t>-->
+                                </t>
     </template>
 </odoo>
