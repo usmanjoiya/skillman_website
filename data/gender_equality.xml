@@ -1189,7 +1189,7 @@
 <!--															company)</span></span></a></li>-->
 <!--											<li-->
 <!--												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--												<a href='https://skillman.eu/cscs/' data-level='4'><span-->
+<!--												<a href='/cscs' data-level='4'><span-->
 <!--														class="menu-item-text"><span-->
 <!--															class="menu-text">CSCS</span></span></a></li>-->
 <!--											<li-->
@@ -1219,7 +1219,7 @@
 <!--															class="menu-text">SAS</span></span></a></li>-->
 <!--											<li-->
 <!--												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--												<a href='https://skillman.eu/tec-5/' data-level='4'><span-->
+<!--												<a href='"/tec-5"' data-level='4'><span-->
 <!--														class="menu-item-text"><span-->
 <!--															class="menu-text">TEC</span></span></a></li>-->
 <!--										</ul>-->
@@ -1679,7 +1679,7 @@
 														company)</span></span></a></li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">
-											<a href='https://skillman.eu/cscs/' data-level='4'><span
+											<a href='/cscs' data-level='4'><span
 													class="menu-item-text"><span
 														class="menu-text">CSCS</span></span></a></li>
 										<li
@@ -1709,7 +1709,7 @@
 										</li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-											<a href='https://skillman.eu/tec-5/' data-level='4'><span
+											<a href='"/tec-5"' data-level='4'><span
 													class="menu-item-text"><span class="menu-text">TEC</span></span></a>
 										</li>
 									</ul>

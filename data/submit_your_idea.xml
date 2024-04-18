@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <odoo>
     <template id="submit_your_idea">
-        <!--        <t t-call="website.layout">-->
+                <t t-call="website.layout">
 
         <head>
             <meta charset="UTF-8"/>
@@ -925,7 +925,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                          href='https://skillman.eu/crf/' data-level='4'><span class="menu-item-text"><span-->
 <!--                              class="menu-text">CRF (an FCA company)</span></span></a></li>-->
 <!--                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3"><a-->
-<!--                          href='https://skillman.eu/cscs/' data-level='4'><span class="menu-item-text"><span-->
+<!--                          href='/cscs' data-level='4'><span class="menu-item-text"><span-->
 <!--                              class="menu-text">CSCS</span></span></a></li>-->
 <!--                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36981 depth-3"><a-->
 <!--                          href='https://skillman.eu/eal/' data-level='4'><span class="menu-item-text"><span-->
@@ -943,7 +943,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                          href='https://skillman.eu/sas/' data-level='4'><span class="menu-item-text"><span-->
 <!--                              class="menu-text">SAS</span></span></a></li>-->
 <!--                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3"><a-->
-<!--                          href='https://skillman.eu/tec-5/' data-level='4'><span class="menu-item-text"><span-->
+<!--                          href='"/tec-5"' data-level='4'><span class="menu-item-text"><span-->
 <!--                              class="menu-text">TEC</span></span></a></li>-->
 <!--                    </ul>-->
 <!--                  </li>-->
@@ -1292,7 +1292,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                         href='https://skillman.eu/crf/' data-level='4'><span class="menu-item-text"><span
                             class="menu-text">CRF (an FCA company)</span></span></a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3"><a
-                        href='https://skillman.eu/cscs/' data-level='4'><span class="menu-item-text"><span
+                        href='/cscs' data-level='4'><span class="menu-item-text"><span
                             class="menu-text">CSCS</span></span></a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36981 depth-3"><a
                         href='https://skillman.eu/eal/' data-level='4'><span class="menu-item-text"><span
@@ -1310,7 +1310,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                         href='https://skillman.eu/sas/' data-level='4'><span class="menu-item-text"><span
                             class="menu-text">SAS</span></span></a></li>
                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3"><a
-                        href='https://skillman.eu/tec-5/' data-level='4'><span class="menu-item-text"><span
+                        href='"/tec-5"' data-level='4'><span class="menu-item-text"><span
                             class="menu-text">TEC</span></span></a></li>
                   </ul>
                 </li>
@@ -1692,7 +1692,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
   </div>
 </body>
 
-        <!--        </t>-->
+                </t>
     </template>
 
 </odoo>

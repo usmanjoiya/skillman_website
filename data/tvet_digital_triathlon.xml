@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template id="tvet_digital_triathlon" name="skillman_web">
-        <!--        <t t-call="website.layout">-->
+        <t t-call="website.layout">
+
         <head>
             <meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
@@ -1038,7 +1039,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">CSCS</span>-->
 <!--                                                            </span>-->
@@ -1080,7 +1081,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">TEC</span>-->
 <!--                                                            </span>-->
@@ -1853,7 +1854,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         </a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">
-                                                        <a href="https://skillman.eu/cscs/" data-level="4">
+                                                        <a href="/cscs" data-level="4">
                                                             <span class="menu-item-text">
                                                                 <span class="menu-text">CSCS</span>
                                                             </span>
@@ -1895,7 +1896,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         </a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-                                                        <a href="https://skillman.eu/tec-5/" data-level="4">
+                                                        <a href="/tec-5" data-level="4">
                                                             <span class="menu-item-text">
                                                                 <span class="menu-text">TEC</span>
                                                             </span>
@@ -2465,7 +2466,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                          style="height: 250%; background-image: url(&quot;https://skillman.eu/wp-content/uploads/2021/09/WIP-1.jpg&quot;); top: -119.105%;"></div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-5"
+                                            <div class="stripe-style-5"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-1/5"
@@ -2511,7 +2512,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-5"
+                                            <div class="stripe-style-5"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -2529,7 +2530,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                                                 <div class="wpb_single_image wpb_content_element vc_align_left">
 
                                                                                     <figure class="wpb_wrapper vc_figure">
-                                                                                        <a href="https://skillman.eu/"
+                                                                                        <a href="/"
                                                                                            target="_self"
                                                                                            class="vc_single_image-wrapper vc_box_border_grey rollover this-ready"
                                                                                            data-large_image_width="900"
@@ -2619,7 +2620,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1" data-anchor="#anchor" id="anchor"
+                                            <div class="stripe-style-1" data-anchor="#anchor" id="anchor"
                                                  style="background-image: url(&quot;https://skillman.eu/wp-content/uploads/2021/09/skmtrnbg.png&quot;); background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid custom_row_e" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-10">
@@ -2683,7 +2684,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-5"
+                                            <div class="stripe-style-5"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -2708,7 +2709,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-5"
+                                            <div class="stripe-style-5"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-6">
@@ -2805,7 +2806,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-5"
+                                            <div class="stripe-style-5"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -2828,7 +2829,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-2"
+                                            <div class="stripe-style-2"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 10px; padding-bottom: 10px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -3076,7 +3077,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1"
+                                            <div class="stripe-style-1"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-12">
@@ -3098,7 +3099,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1"
+                                            <div class="stripe-style-1"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-6">
@@ -3163,7 +3164,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1"
+                                            <div class="stripe-style-1"
                                                  style="background-color: rgb(255, 255, 255); background-image: url(&quot;https://skillman.eu/wp-content/uploads/2021/09/WIP-1.png&quot;); background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-2 vc_col-has-fill">
@@ -3614,7 +3615,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </div>
                                                 </div>
                                             </div><!-- Row Backgrounds -->
-                                            <div class="stripe stripe-style-2"
+                                            <div class="stripe-style-2"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-2">
@@ -3822,177 +3823,177 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                             </a>
                                         </div>
                                     </nav>
-                                    <div class="single-related-posts">
-                                        <h3>Related Posts</h3>
-                                        <section class="items-grid">
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover layzr-bg this-ready"
-                                                           href="https://skillman.eu/giovanni-crisona-2023-china-international-fair-for-trade-in-services/"
-                                                           aria-label="Post image">
-                                                            <img class="preload-me lazy-load aspect"
-                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"
-                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/11/23年-福燕-pc-110x80.jpg"
-                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/11/23年-福燕-pc-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/11/23年-福燕-pc-220x160.jpg 220w"
-                                                                 loading="eager" style="--ratio: 110 / 80"
-                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                 height="80" alt=""/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a href="https://skillman.eu/giovanni-crisona-2023-china-international-fair-for-trade-in-services/">
-                                                            Giovanni Crisonà @ 2023 China International Fair For Trade
-                                                            In Services
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-09-06T11:06:17+02:00">6 September 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover layzr-bg this-ready"
-                                                           href="https://skillman.eu/swost-webinar-the-twilight-of-the-stereotypes/"
-                                                           aria-label="Post image">
-                                                            <img class="preload-me lazy-load aspect"
-                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"
-                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/09/SWOST-WEBINAR-11-SETT-cover1-110x80.jpg"
-                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/09/SWOST-WEBINAR-11-SETT-cover1-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/09/SWOST-WEBINAR-11-SETT-cover1-220x160.jpg 220w"
-                                                                 loading="eager" style="--ratio: 110 / 80"
-                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                 height="80" alt=""/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a href="https://skillman.eu/swost-webinar-the-twilight-of-the-stereotypes/">
-                                                            SWOST WEBINAR: THE TWILIGHT OF THE STEREOTYPES
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-09-01T18:35:46+02:00">1 September 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover layzr-bg this-ready"
-                                                           href="https://skillman.eu/skillman-eu-delegation-visits-china/"
-                                                           aria-label="Post image">
-                                                            <img class="preload-me lazy-load aspect"
-                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"
-                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/08/WENN3520-min-scaled-110x80.jpg"
-                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/08/WENN3520-min-scaled-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/08/WENN3520-min-scaled-220x160.jpg 220w"
-                                                                 loading="eager" style="--ratio: 110 / 80"
-                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                 height="80" alt=""/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a href="https://skillman.eu/skillman-eu-delegation-visits-china/">
-                                                            Skillman.eu delegation visits China to strengthen
-                                                            cooperation in vocational education and training
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-08-29T19:32:24+02:00">29 August 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover layzr-bg this-ready"
-                                                           href="https://skillman.eu/david-tsiskaridzes-experience/"
-                                                           aria-label="Post image">
-                                                            <img class="preload-me lazy-load aspect"
-                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"
-                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/07/David-Tsiskaridze-2-e1689679309153-110x80.jpg"
-                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/07/David-Tsiskaridze-2-e1689679309153-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/07/David-Tsiskaridze-2-e1689679309153-220x160.jpg 220w"
-                                                                 loading="eager" style="--ratio: 110 / 80"
-                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                 height="80" alt=""/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a href="https://skillman.eu/david-tsiskaridzes-experience/">
-                                                            David Tsiskaridze’s Experience at Skillman Secretariat in
-                                                            Pistoia
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-07-14T13:48:27+02:00">14 July 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover layzr-bg this-ready"
-                                                           href="https://skillman.eu/swost-final-conference/"
-                                                           aria-label="Post image">
-                                                            <img class="preload-me lazy-load aspect"
-                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"
-                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/06/cover_post_final_conf1-110x80.jpg"
-                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/06/cover_post_final_conf1-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/06/cover_post_final_conf1-220x160.jpg 220w"
-                                                                 loading="eager" style="--ratio: 110 / 80"
-                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                 height="80" alt=""/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a href="https://skillman.eu/swost-final-conference/">Final
-                                                            Conference of swost.eu Project: Promoting Gender Equality in
-                                                            Sport Organizations
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-06-23T12:44:26+02:00">23 June 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover layzr-bg layzr-bg-transparent this-ready"
-                                                           href="https://skillman.eu/swost-webinar/"
-                                                           aria-label="Post image">
-                                                            <img class="preload-me lazy-load aspect"
-                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"
-                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/02/logo-swost-110x80.png"
-                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/02/logo-swost-110x80.png 110w, https://skillman.eu/wp-content/uploads/2023/02/logo-swost-220x160.png 220w"
-                                                                 loading="eager" style="--ratio: 110 / 80"
-                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                 height="80" alt=""/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a href="https://skillman.eu/swost-webinar/">SWOST –
-                                                            INTERNATIONAL WORKSHOP ON GENDER EQUALITY IN SPORT
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-02-16T13:39:21+01:00">16 February 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                        </section>
-                                    </div>
+<!--                                    <div class="single-related-posts">-->
+<!--                                        <h3>Related Posts</h3>-->
+<!--                                        <section class="items-grid">-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover layzr-bg this-ready"-->
+<!--                                                           href="https://skillman.eu/giovanni-crisona-2023-china-international-fair-for-trade-in-services/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img class="preload-me lazy-load aspect"-->
+<!--                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"-->
+<!--                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/11/23年-福燕-pc-110x80.jpg"-->
+<!--                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/11/23年-福燕-pc-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/11/23年-福燕-pc-220x160.jpg 220w"-->
+<!--                                                                 loading="eager" style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                 height="80" alt=""/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a href="https://skillman.eu/giovanni-crisona-2023-china-international-fair-for-trade-in-services/">-->
+<!--                                                            Giovanni Crisonà @ 2023 China International Fair For Trade-->
+<!--                                                            In Services-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-09-06T11:06:17+02:00">6 September 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover layzr-bg this-ready"-->
+<!--                                                           href="https://skillman.eu/swost-webinar-the-twilight-of-the-stereotypes/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img class="preload-me lazy-load aspect"-->
+<!--                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"-->
+<!--                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/09/SWOST-WEBINAR-11-SETT-cover1-110x80.jpg"-->
+<!--                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/09/SWOST-WEBINAR-11-SETT-cover1-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/09/SWOST-WEBINAR-11-SETT-cover1-220x160.jpg 220w"-->
+<!--                                                                 loading="eager" style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                 height="80" alt=""/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a href="https://skillman.eu/swost-webinar-the-twilight-of-the-stereotypes/">-->
+<!--                                                            SWOST WEBINAR: THE TWILIGHT OF THE STEREOTYPES-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-09-01T18:35:46+02:00">1 September 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover layzr-bg this-ready"-->
+<!--                                                           href="https://skillman.eu/skillman-eu-delegation-visits-china/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img class="preload-me lazy-load aspect"-->
+<!--                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"-->
+<!--                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/08/WENN3520-min-scaled-110x80.jpg"-->
+<!--                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/08/WENN3520-min-scaled-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/08/WENN3520-min-scaled-220x160.jpg 220w"-->
+<!--                                                                 loading="eager" style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                 height="80" alt=""/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a href="https://skillman.eu/skillman-eu-delegation-visits-china/">-->
+<!--                                                            Skillman.eu delegation visits China to strengthen-->
+<!--                                                            cooperation in vocational education and training-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-08-29T19:32:24+02:00">29 August 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover layzr-bg this-ready"-->
+<!--                                                           href="https://skillman.eu/david-tsiskaridzes-experience/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img class="preload-me lazy-load aspect"-->
+<!--                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"-->
+<!--                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/07/David-Tsiskaridze-2-e1689679309153-110x80.jpg"-->
+<!--                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/07/David-Tsiskaridze-2-e1689679309153-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/07/David-Tsiskaridze-2-e1689679309153-220x160.jpg 220w"-->
+<!--                                                                 loading="eager" style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                 height="80" alt=""/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a href="https://skillman.eu/david-tsiskaridzes-experience/">-->
+<!--                                                            David Tsiskaridze’s Experience at Skillman Secretariat in-->
+<!--                                                            Pistoia-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-07-14T13:48:27+02:00">14 July 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover layzr-bg this-ready"-->
+<!--                                                           href="https://skillman.eu/swost-final-conference/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img class="preload-me lazy-load aspect"-->
+<!--                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"-->
+<!--                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/06/cover_post_final_conf1-110x80.jpg"-->
+<!--                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/06/cover_post_final_conf1-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/06/cover_post_final_conf1-220x160.jpg 220w"-->
+<!--                                                                 loading="eager" style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                 height="80" alt=""/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a href="https://skillman.eu/swost-final-conference/">Final-->
+<!--                                                            Conference of swost.eu Project: Promoting Gender Equality in-->
+<!--                                                            Sport Organizations-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-06-23T12:44:26+02:00">23 June 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover layzr-bg layzr-bg-transparent this-ready"-->
+<!--                                                           href="https://skillman.eu/swost-webinar/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img class="preload-me lazy-load aspect"-->
+<!--                                                                 src="data:image/svg+xml,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%20110%2080'%2F%3E"-->
+<!--                                                                 data-src="https://skillman.eu/wp-content/uploads/2023/02/logo-swost-110x80.png"-->
+<!--                                                                 data-srcset="https://skillman.eu/wp-content/uploads/2023/02/logo-swost-110x80.png 110w, https://skillman.eu/wp-content/uploads/2023/02/logo-swost-220x160.png 220w"-->
+<!--                                                                 loading="eager" style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                 sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                 height="80" alt=""/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a href="https://skillman.eu/swost-webinar/">SWOST –-->
+<!--                                                            INTERNATIONAL WORKSHOP ON GENDER EQUALITY IN SPORT-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-02-16T13:39:21+01:00">16 February 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                        </section>-->
+<!--                                    </div>-->
                                 </article>
 
                             </div><!-- #content -->
@@ -4359,7 +4360,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">CSCS</span>-->
 <!--                                                            </span>-->
@@ -4401,7 +4402,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">TEC</span>-->
 <!--                                                            </span>-->
@@ -4864,6 +4865,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                 <div class="dt-posts-preload-activity"></div>
             </div>
         </body>
-        <!--        </t>-->
+        </t>
+
     </template>
 </odoo>

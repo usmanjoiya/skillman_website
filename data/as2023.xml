@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <odoo>
     <template id="as2023">
+        <t t-call="website.layout">
 
         <head>
             <meta charset="UTF-8"/>
@@ -1480,7 +1481,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
 <!--                                                    </li>-->
 <!--                                                    <li-->
 <!--                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span-->
 <!--                                                                    class="menu-item-text">-->
 <!--                                                                <span-->
@@ -1546,7 +1547,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
 <!--                                                    </li>-->
 <!--                                                    <li-->
 <!--                                                            class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span-->
 <!--                                                                    class="menu-item-text">-->
 <!--                                                                <span-->
@@ -2560,7 +2561,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </li>
                                                     <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">
-                                                        <a href="https://skillman.eu/cscs/" data-level="4">
+                                                        <a href="/cscs" data-level="4">
                                                             <span
                                                                     class="menu-item-text">
                                                                 <span
@@ -2626,7 +2627,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </li>
                                                     <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-                                                        <a href="https://skillman.eu/tec-5/" data-level="4">
+                                                        <a href="/tec-5" data-level="4">
                                                             <span
                                                                     class="menu-item-text">
                                                                 <span
@@ -3246,7 +3247,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
 
                                     <div class="entry-content">
                                         <section class="wpb-content-wrapper">
-                                            <div class="stripe stripe-style-1 stripe-parallax-bg parallax-bg-done"
+                                            <div class="stripe-style-1 stripe-parallax-bg parallax-bg-done"
                                                  data-prlx-speed="0.2"
                                                  style="background-image: url(&quot;https://skillman.eu/wp-content/uploads/2022/12/conny-schneider-xuTJZ7uD7PI-unsplash-1-scaled.jpg&quot;); background-position: 50% -127px; background-repeat: no-repeat; background-attachment: scroll; background-size: cover; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; opacity: 1; min-height: 0px !important;">
                                                 <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
@@ -3395,7 +3396,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1"
+                                            <div class="stripe-style-1"
                                                  style="background-color: rgba(0, 0, 0, 0.01); background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
                                                      style="padding-left: 0px; padding-right: 0px; width: 1519.2px; opacity: 1; margin-left: -160px;">
@@ -3517,7 +3518,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </div>
                                                 </div>
                                             </div><!-- Row Backgrounds -->
-                                            <div class="stripe stripe-style-1"
+                                            <div class="stripe-style-1"
                                                  style="background-color: rgb(196, 197, 202); background-position: center top; background-repeat: repeat; background-attachment: scroll; background-size: auto; padding-top: 55px; padding-bottom: 20px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid" style="">
                                                     <div class="wpb_column vc_column_container vc_col-sm-6">
@@ -3647,7 +3648,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1"
+                                            <div class="stripe-style-1"
                                                  style="background-color: rgb(255, 255, 255); background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
                                                      style="padding-left: 0px; padding-right: 0px; width: 1519.2px; opacity: 1; margin-left: -160px;">
@@ -3679,7 +3680,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </div>
                                                 </div>
                                             </div><!-- Row Backgrounds -->
-                                            <div class="stripe stripe-style-5"
+                                            <div class="stripe-style-5"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
                                                      style="padding-left: 0px; padding-right: 0px; width: 1519.2px; opacity: 1; margin-left: -160px;">
@@ -3742,7 +3743,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1"
+                                            <div class="stripe-style-1"
                                                  style="background-color: rgb(255, 255, 255); background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
                                                      style="padding-left: 0px; padding-right: 0px; width: 1519.2px; opacity: 1; margin-left: -160px;">
@@ -4242,7 +4243,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1"
+                                            <div class="stripe-style-1"
                                                  style="background-color: rgb(4, 50, 98); background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
                                                      style="padding-left: 0px; padding-right: 0px; width: 1519.2px; opacity: 1; margin-left: -160px;">
@@ -4372,7 +4373,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                 </div>
                                             </div>
 
-<div class="stripe stripe-style-1 stripe-parallax-bg parallax-bg-done" data-prlx-speed="0.1" data-anchor="#VENUE"
+<div class="stripe-style-1 stripe-parallax-bg parallax-bg-done" data-prlx-speed="0.1" data-anchor="#VENUE"
      id="VENUE"
      style="background-image: url(&quot;https://skillman.eu/wp-content/uploads/2022/12/gilly-jFqUJacYIsw-unsplash-scaled-1.jpg&quot;); background-position: 50% 23px; background-repeat: no-repeat; background-attachment: scroll; background-size: cover; padding-top: 10px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; opacity: 1; min-height: 758px;">
 <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
@@ -4411,7 +4412,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
     </div>
 </div>
 </div>
-                                            <div class="stripe stripe-style-5"
+                                            <div class="stripe-style-5"
                                                  style="background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid full-width-wrap"
                                                      style="padding-left: 0px; padding-right: 0px; width: 1519.2px; opacity: 1; margin-left: -160px;">
@@ -4736,7 +4737,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-2"
+                                            <div class="stripe-style-2"
                                                  style="background-image: url(&quot;https://skillman.eu/wp-content/uploads/2021/09/skmtrnbg.png&quot;); background-position: center top; background-repeat: no-repeat; background-attachment: scroll; background-size: auto; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: 0px; min-height: 0px;">
                                                 <div class="vc_row wpb_row vc_row-fluid HIDDEN full-width-wrap"
                                                      style="padding-left: 0px; padding-right: 0px; width: 1519.2px; opacity: 1; margin-left: -160px;">
@@ -4802,7 +4803,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </div>
                                                 </div>
                                             </div>
-                                            <div class="stripe stripe-style-1 stripe-parallax-bg parallax-bg-done"
+                                            <div class="stripe-style-1 stripe-parallax-bg parallax-bg-done"
                                                  data-prlx-speed="0.5" data-anchor="#contact-form" id="contact-form"
 
                                                  style="background-color: rgb(204, 204, 204); background-position: 50% 160px; background-repeat: no-repeat; background-attachment: scroll; background-size: cover; padding-top: 0px; padding-bottom: 0px; margin-top: 0px; margin-bottom: -80px; opacity: 1; min-height: 758px;">
@@ -5090,210 +5091,210 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                             </a>
                                         </div>
                                     </nav>
-                                    <div class="single-related-posts">
-                                        <h3>Related Posts</h3>
-                                        <section class="items-grid">
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a
-                                                                class="alignleft post-rollover layzr-bg-transparent this-ready"
-                                                                href="https://skillman.eu/skillman-riga-declaration-is-out-shaping-the-future-of-global-education-and-skills-development/"
-                                                                aria-label="Post image">
-                                                            <img
-                                                                    class="preload-me lazy-load aspect is-loaded"
-                                                                    loading="eager"
-                                                                    style="--ratio: 110 / 80"
-                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                    height="80"
-                                                                    alt=""
-                                                                    src="https://skillman.eu/wp-content/uploads/2023/12/Screenshot-2023-12-13-122313-e1702480757622-110x80.png"
-                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/12/Screenshot-2023-12-13-122313-e1702480757622-110x80.png 110w, https://skillman.eu/wp-content/uploads/2023/12/Screenshot-2023-12-13-122313-e1702480757622-220x160.png 220w"/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a
-                                                                href="https://skillman.eu/skillman-riga-declaration-is-out-shaping-the-future-of-global-education-and-skills-development/">
-                                                            Skillman
-                                                            Riga Declaration is out: Shaping the Future of Global
-                                                            Education and
-                                                            Skills Development
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-12-13T16:49:05+01:00">13 December 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover this-ready"
-                                                           href="https://skillman.eu/20th-annual-international-scientific-conference-on-social-innovations-for-sustainable-regional-development/"
-                                                           aria-label="Post image">
-                                                            <img
-                                                                    class="preload-me lazy-load aspect is-loaded"
-                                                                    loading="eager"
-                                                                    style="--ratio: 110 / 80"
-                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                    height="80"
-                                                                    alt=""
-                                                                    src="https://skillman.eu/wp-content/uploads/2023/12/klaipeda-call-for-workshop-110x80.jpg"
-                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/12/klaipeda-call-for-workshop-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/12/klaipeda-call-for-workshop-220x160.jpg 220w"/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a
-                                                                href="https://skillman.eu/20th-annual-international-scientific-conference-on-social-innovations-for-sustainable-regional-development/">
-                                                            20th
-                                                            Annual International Scientific Conference on Social
-                                                            Innovations for
-                                                            Sustainable Regional Development
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-12-07T14:44:00+01:00">7 December 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover this-ready"
-                                                           href="https://skillman.eu/d-challenghe-call-for-papers-digital-pedagogy-in-higher-education/"
-                                                           aria-label="Post image">
-                                                            <img
-                                                                    class="preload-me lazy-load aspect is-loaded"
-                                                                    loading="eager"
-                                                                    style="--ratio: 110 / 80"
-                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                    height="80"
-                                                                    alt=""
-                                                                    src="https://skillman.eu/wp-content/uploads/2023/12/d-challenge-110x80.jpg"
-                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/12/d-challenge-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/12/d-challenge-220x160.jpg 220w"/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a
-                                                                href="https://skillman.eu/d-challenghe-call-for-papers-digital-pedagogy-in-higher-education/">
-                                                            D-ChallengHE
-                                                            Call for Papers: Digital Pedagogy in Higher Education
-                                                        </a>
-                                                        <br/>
-                                                        <time
-                                                                class="text-secondary"
-                                                                datetime="2023-12-07T13:53:43+01:00">7
-                                                            December 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover this-ready"
-                                                           href="https://skillman.eu/letter-of-thanks-from-yuriy-balanyuk-sif-2023/"
-                                                           aria-label="Post image">
-                                                            <img
-                                                                    class="preload-me lazy-load aspect is-loaded"
-                                                                    loading="eager"
-                                                                    style="--ratio: 110 / 80"
-                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                    height="80"
-                                                                    alt=""
-                                                                    src="https://skillman.eu/wp-content/uploads/2023/11/Yuriy-BALANYUK-scaled-110x80.jpg"
-                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/11/Yuriy-BALANYUK-scaled-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/11/Yuriy-BALANYUK-scaled-220x160.jpg 220w"/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a
-                                                                href="https://skillman.eu/letter-of-thanks-from-yuriy-balanyuk-sif-2023/">
-                                                            Letter
-                                                            of thanks from Yuriy BALANYUK – SIF 2023
-                                                        </a>
-                                                        <br/>
-                                                        <time
-                                                                class="text-secondary"
-                                                                datetime="2023-11-24T17:09:22+01:00">24
-                                                            November 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a class="alignleft post-rollover this-ready"
-                                                           href="https://skillman.eu/tereza-khechoyan-participated-in-skillman-international-forum-in-riga/"
-                                                           aria-label="Post image">
-                                                            <img
-                                                                    class="preload-me lazy-load aspect is-loaded"
-                                                                    loading="eager"
-                                                                    style="--ratio: 110 / 80"
-                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                    height="80"
-                                                                    alt=""
-                                                                    src="https://skillman.eu/wp-content/uploads/2023/11/kekhoyan-110x80.jpg"
-                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/11/kekhoyan-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/11/kekhoyan-220x160.jpg 220w"/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a
-                                                                href="https://skillman.eu/tereza-khechoyan-participated-in-skillman-international-forum-in-riga/">
-                                                            Tereza
-                                                            Khechoyan Participated in Skillman International Forum in
-                                                            Riga
-                                                        </a>
-                                                        <br/>
-                                                        <time class="text-secondary"
-                                                              datetime="2023-11-15T15:58:52+01:00">15 November 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                            <div class=" related-item">
-                                                <article class="post-format-standard">
-                                                    <div class="mini-post-img">
-                                                        <a
-                                                                class="alignleft post-rollover layzr-bg-transparent this-ready"
-                                                                href="https://skillman.eu/itech-sif2023/"
-                                                                aria-label="Post image">
-                                                            <img
-                                                                    class="preload-me lazy-load aspect is-loaded"
-                                                                    loading="eager"
-                                                                    style="--ratio: 110 / 80"
-                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"
-                                                                    height="80"
-                                                                    alt=""
-                                                                    src="https://skillman.eu/wp-content/uploads/2021/06/ITECH_Logo_RGB-110x80.png"
-                                                                    srcset="https://skillman.eu/wp-content/uploads/2021/06/ITECH_Logo_RGB-110x80.png 110w, https://skillman.eu/wp-content/uploads/2021/06/ITECH_Logo_RGB-220x160.png 220w"/>
-                                                            <i></i>
-                                                        </a>
-                                                    </div>
-                                                    <div class="post-content">
-                                                        <a
-                                                                href="https://skillman.eu/itech-sif2023/">Interview with
-                                                            Mr. Holger
-                                                            Schmidt, ITECH Technical College in Hamburg
-                                                        </a>
-                                                        <br/>
-                                                        <time
-                                                                class="text-secondary"
-                                                                datetime="2023-11-06T12:19:07+01:00">6
-                                                            November 2023
-                                                        </time>
-                                                    </div>
-                                                </article>
-                                            </div>
-                                        </section>
-                                    </div>
+<!--                                    <div class="single-related-posts">-->
+<!--                                        <h3>Related Posts</h3>-->
+<!--                                        <section class="items-grid">-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a-->
+<!--                                                                class="alignleft post-rollover layzr-bg-transparent this-ready"-->
+<!--                                                                href="https://skillman.eu/skillman-riga-declaration-is-out-shaping-the-future-of-global-education-and-skills-development/"-->
+<!--                                                                aria-label="Post image">-->
+<!--                                                            <img-->
+<!--                                                                    class="preload-me lazy-load aspect is-loaded"-->
+<!--                                                                    loading="eager"-->
+<!--                                                                    style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                    height="80"-->
+<!--                                                                    alt=""-->
+<!--                                                                    src="https://skillman.eu/wp-content/uploads/2023/12/Screenshot-2023-12-13-122313-e1702480757622-110x80.png"-->
+<!--                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/12/Screenshot-2023-12-13-122313-e1702480757622-110x80.png 110w, https://skillman.eu/wp-content/uploads/2023/12/Screenshot-2023-12-13-122313-e1702480757622-220x160.png 220w"/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a-->
+<!--                                                                href="https://skillman.eu/skillman-riga-declaration-is-out-shaping-the-future-of-global-education-and-skills-development/">-->
+<!--                                                            Skillman-->
+<!--                                                            Riga Declaration is out: Shaping the Future of Global-->
+<!--                                                            Education and-->
+<!--                                                            Skills Development-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-12-13T16:49:05+01:00">13 December 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover this-ready"-->
+<!--                                                           href="https://skillman.eu/20th-annual-international-scientific-conference-on-social-innovations-for-sustainable-regional-development/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img-->
+<!--                                                                    class="preload-me lazy-load aspect is-loaded"-->
+<!--                                                                    loading="eager"-->
+<!--                                                                    style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                    height="80"-->
+<!--                                                                    alt=""-->
+<!--                                                                    src="https://skillman.eu/wp-content/uploads/2023/12/klaipeda-call-for-workshop-110x80.jpg"-->
+<!--                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/12/klaipeda-call-for-workshop-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/12/klaipeda-call-for-workshop-220x160.jpg 220w"/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a-->
+<!--                                                                href="https://skillman.eu/20th-annual-international-scientific-conference-on-social-innovations-for-sustainable-regional-development/">-->
+<!--                                                            20th-->
+<!--                                                            Annual International Scientific Conference on Social-->
+<!--                                                            Innovations for-->
+<!--                                                            Sustainable Regional Development-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-12-07T14:44:00+01:00">7 December 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover this-ready"-->
+<!--                                                           href="https://skillman.eu/d-challenghe-call-for-papers-digital-pedagogy-in-higher-education/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img-->
+<!--                                                                    class="preload-me lazy-load aspect is-loaded"-->
+<!--                                                                    loading="eager"-->
+<!--                                                                    style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                    height="80"-->
+<!--                                                                    alt=""-->
+<!--                                                                    src="https://skillman.eu/wp-content/uploads/2023/12/d-challenge-110x80.jpg"-->
+<!--                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/12/d-challenge-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/12/d-challenge-220x160.jpg 220w"/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a-->
+<!--                                                                href="https://skillman.eu/d-challenghe-call-for-papers-digital-pedagogy-in-higher-education/">-->
+<!--                                                            D-ChallengHE-->
+<!--                                                            Call for Papers: Digital Pedagogy in Higher Education-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time-->
+<!--                                                                class="text-secondary"-->
+<!--                                                                datetime="2023-12-07T13:53:43+01:00">7-->
+<!--                                                            December 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover this-ready"-->
+<!--                                                           href="https://skillman.eu/letter-of-thanks-from-yuriy-balanyuk-sif-2023/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img-->
+<!--                                                                    class="preload-me lazy-load aspect is-loaded"-->
+<!--                                                                    loading="eager"-->
+<!--                                                                    style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                    height="80"-->
+<!--                                                                    alt=""-->
+<!--                                                                    src="https://skillman.eu/wp-content/uploads/2023/11/Yuriy-BALANYUK-scaled-110x80.jpg"-->
+<!--                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/11/Yuriy-BALANYUK-scaled-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/11/Yuriy-BALANYUK-scaled-220x160.jpg 220w"/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a-->
+<!--                                                                href="https://skillman.eu/letter-of-thanks-from-yuriy-balanyuk-sif-2023/">-->
+<!--                                                            Letter-->
+<!--                                                            of thanks from Yuriy BALANYUK – SIF 2023-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time-->
+<!--                                                                class="text-secondary"-->
+<!--                                                                datetime="2023-11-24T17:09:22+01:00">24-->
+<!--                                                            November 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a class="alignleft post-rollover this-ready"-->
+<!--                                                           href="https://skillman.eu/tereza-khechoyan-participated-in-skillman-international-forum-in-riga/"-->
+<!--                                                           aria-label="Post image">-->
+<!--                                                            <img-->
+<!--                                                                    class="preload-me lazy-load aspect is-loaded"-->
+<!--                                                                    loading="eager"-->
+<!--                                                                    style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                    height="80"-->
+<!--                                                                    alt=""-->
+<!--                                                                    src="https://skillman.eu/wp-content/uploads/2023/11/kekhoyan-110x80.jpg"-->
+<!--                                                                    srcset="https://skillman.eu/wp-content/uploads/2023/11/kekhoyan-110x80.jpg 110w, https://skillman.eu/wp-content/uploads/2023/11/kekhoyan-220x160.jpg 220w"/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a-->
+<!--                                                                href="https://skillman.eu/tereza-khechoyan-participated-in-skillman-international-forum-in-riga/">-->
+<!--                                                            Tereza-->
+<!--                                                            Khechoyan Participated in Skillman International Forum in-->
+<!--                                                            Riga-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time class="text-secondary"-->
+<!--                                                              datetime="2023-11-15T15:58:52+01:00">15 November 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                            <div class=" related-item">-->
+<!--                                                <article class="post-format-standard">-->
+<!--                                                    <div class="mini-post-img">-->
+<!--                                                        <a-->
+<!--                                                                class="alignleft post-rollover layzr-bg-transparent this-ready"-->
+<!--                                                                href="https://skillman.eu/itech-sif2023/"-->
+<!--                                                                aria-label="Post image">-->
+<!--                                                            <img-->
+<!--                                                                    class="preload-me lazy-load aspect is-loaded"-->
+<!--                                                                    loading="eager"-->
+<!--                                                                    style="&#45;&#45;ratio: 110 / 80"-->
+<!--                                                                    sizes="(max-width: 110px) 100vw, 110px" width="110"-->
+<!--                                                                    height="80"-->
+<!--                                                                    alt=""-->
+<!--                                                                    src="https://skillman.eu/wp-content/uploads/2021/06/ITECH_Logo_RGB-110x80.png"-->
+<!--                                                                    srcset="https://skillman.eu/wp-content/uploads/2021/06/ITECH_Logo_RGB-110x80.png 110w, https://skillman.eu/wp-content/uploads/2021/06/ITECH_Logo_RGB-220x160.png 220w"/>-->
+<!--                                                            <i></i>-->
+<!--                                                        </a>-->
+<!--                                                    </div>-->
+<!--                                                    <div class="post-content">-->
+<!--                                                        <a-->
+<!--                                                                href="https://skillman.eu/itech-sif2023/">Interview with-->
+<!--                                                            Mr. Holger-->
+<!--                                                            Schmidt, ITECH Technical College in Hamburg-->
+<!--                                                        </a>-->
+<!--                                                        <br/>-->
+<!--                                                        <time-->
+<!--                                                                class="text-secondary"-->
+<!--                                                                datetime="2023-11-06T12:19:07+01:00">6-->
+<!--                                                            November 2023-->
+<!--                                                        </time>-->
+<!--                                                    </div>-->
+<!--                                                </article>-->
+<!--                                            </div>-->
+<!--                                        </section>-->
+<!--                                    </div>-->
                                 </article>
 
                             </div><!-- #content -->
@@ -5743,7 +5744,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </li>
                                                     <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">
-                                                        <a href="https://skillman.eu/cscs/" data-level="4">
+                                                        <a href="/cscs" data-level="4">
                                                             <span
                                                                     class="menu-item-text">
                                                                 <span
@@ -5809,7 +5810,7 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
                                                     </li>
                                                     <li
                                                             class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-                                                        <a href="https://skillman.eu/tec-5/" data-level="4">
+                                                        <a href="/tec-5" data-level="4">
                                                             <span
                                                                     class="menu-item-text">
                                                                 <span
@@ -6434,5 +6435,6 @@ KABADA – Knowledge Alliance of Business idea Assessment: Digital Approach – 
             <iframe id="sbox" src="chrome-extension://afhdhdllpdmajoopkogfdmdfdgmpjipp/js/sandbox.html"
                     style="display: none;"></iframe>
         </body>
+        </t>
     </template>
 </odoo>

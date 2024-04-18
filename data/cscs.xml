@@ -325,7 +325,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
         <link rel="wlwmanifest" type="application/wlwmanifest+xml"
               href="https://skillman.eu/wp-includes/wlwmanifest.xml"/>
 
-        <link rel="canonical" href="https://skillman.eu/cscs/"/>
+        <link rel="canonical" href="/cscs"/>
         <link rel="shortlink" href="https://skillman.eu/?p=14805"/>
         <link rel="alternate" type="application/json+oembed"
               href="https://skillman.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskillman.eu%2Fcscs%2F"/>
@@ -333,7 +333,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
               href="https://skillman.eu/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fskillman.eu%2Fcscs%2F&amp;format=xml"/>
         <meta property="og:site_name" content="skillman.eu"/>
         <meta property="og:title" content="CSCS"/>
-        <meta property="og:url" content="https://skillman.eu/cscs/"/>
+        <meta property="og:url" content="/cscs"/>
         <meta property="og:type" content="article"/>
         <meta name="generator"
               content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
@@ -998,7 +998,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                    </a>-->
 <!--                                                </li>-->
 <!--                                                <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14805 current_page_item menu-item-36980 act depth-3">-->
-<!--                                                    <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                    <a href="/cscs" data-level="4">-->
 <!--                                                        <span class="menu-item-text">-->
 <!--                                                            <span class="menu-text">CSCS</span>-->
 <!--                                                        </span>-->
@@ -1040,7 +1040,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                    </a>-->
 <!--                                                </li>-->
 <!--                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                    <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                    <a href="/tec-5" data-level="4">-->
 <!--                                                        <span class="menu-item-text">-->
 <!--                                                            <span class="menu-text">TEC</span>-->
 <!--                                                        </span>-->
@@ -1819,7 +1819,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </a>
                                                 </li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14805 current_page_item menu-item-36980 act depth-3">
-                                                    <a href="https://skillman.eu/cscs/" data-level="4">
+                                                    <a href="/cscs" data-level="4">
                                                         <span class="menu-item-text">
                                                             <span class="menu-text">CSCS</span>
                                                         </span>
@@ -1861,7 +1861,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                     </a>
                                                 </li>
                                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-                                                    <a href="https://skillman.eu/tec-5/" data-level="4">
+                                                    <a href="/tec-5" data-level="4">
                                                         <span class="menu-item-text">
                                                             <span class="menu-text">TEC</span>
                                                         </span>
@@ -2981,7 +2981,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                    </a>-->
 <!--                                                </li>-->
 <!--                                                <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-14805 current_page_item menu-item-36980 act depth-3">-->
-<!--                                                    <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                    <a href="/cscs" data-level="4">-->
 <!--                                                        <span class="menu-item-text">-->
 <!--                                                            <span class="menu-text">CSCS</span>-->
 <!--                                                        </span>-->
@@ -3023,7 +3023,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                    </a>-->
 <!--                                                </li>-->
 <!--                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                    <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                    <a href="/tec-5" data-level="4">-->
 <!--                                                        <span class="menu-item-text">-->
 <!--                                                            <span class="menu-text">TEC</span>-->
 <!--                                                        </span>-->

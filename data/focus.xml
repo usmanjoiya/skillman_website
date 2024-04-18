@@ -999,7 +999,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">CSCS</span>-->
 <!--                                                            </span>-->
@@ -1041,7 +1041,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">TEC</span>-->
 <!--                                                            </span>-->
@@ -1817,7 +1817,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         </a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">
-                                                        <a href="https://skillman.eu/cscs/" data-level="4">
+                                                        <a href="/cscs" data-level="4">
                                                             <span class="menu-item-text">
                                                                 <span class="menu-text">CSCS</span>
                                                             </span>
@@ -1859,7 +1859,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         </a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-                                                        <a href="https://skillman.eu/tec-5/" data-level="4">
+                                                        <a href="/tec-5" data-level="4">
                                                             <span class="menu-item-text">
                                                                 <span class="menu-text">TEC</span>
                                                             </span>
@@ -2612,219 +2612,219 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                     <section id="tag_cloud-2" class="widget widget_tag_cloud">
                                         <div class="widget-title">Tags</div>
                                         <div class="tagcloud">
-                                            <a href="https://skillman.eu/tag/artificial-intelligence/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-692 tag-link-position-1"
                                                style="font-size: 10.038834951456pt;"
                                                aria-label="artificial intelligence (3 items)">artificial intelligence
                                             </a>
-                                            <a href="https://skillman.eu/tag/automotive/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-77 tag-link-position-2"
                                                style="font-size: 14.116504854369pt;" aria-label="Automotive (15 items)">
                                                 Automotive
                                             </a>
-                                            <a href="https://skillman.eu/tag/automotive-sector/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-16 tag-link-position-3"
                                                style="font-size: 14.320388349515pt;"
                                                aria-label="automotive sector (16 items)">automotive sector
                                             </a>
-                                            <a href="https://skillman.eu/tag/business-plan/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-720 tag-link-position-4"
                                                style="font-size: 8pt;" aria-label="business plan (1 item)">business plan
                                             </a>
-                                            <a href="https://skillman.eu/tag/calls/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-212 tag-link-position-5"
                                                style="font-size: 9.2233009708738pt;" aria-label="calls (2 items)">calls
                                             </a>
-                                            <a href="https://skillman.eu/tag/capacity-building/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-71 tag-link-position-6"
                                                style="font-size: 10.718446601942pt;"
                                                aria-label="Capacity Building (4 items)">Capacity Building
                                             </a>
-                                            <a href="https://skillman.eu/tag/cedefop/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-510 tag-link-position-7"
                                                style="font-size: 10.038834951456pt;" aria-label="CEDEFOP (3 items)">
                                                 CEDEFOP
                                             </a>
-                                            <a href="https://skillman.eu/tag/china/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-816 tag-link-position-8"
                                                style="font-size: 9.2233009708738pt;" aria-label="China (2 items)">China
                                             </a>
-                                            <a href="https://skillman.eu/tag/composite-and-lightweight-materials/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-84 tag-link-position-9"
                                                style="font-size: 9.2233009708738pt;"
                                                aria-label="Composite and lightweight materials (2 items)">Composite and
                                                 lightweight materials
                                             </a>
-                                            <a href="https://skillman.eu/tag/conference/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-666 tag-link-position-10"
                                                style="font-size: 10.718446601942pt;" aria-label="conference (4 items)">
                                                 conference
                                             </a>
-                                            <a href="https://skillman.eu/tag/coves/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-410 tag-link-position-11"
                                                style="font-size: 10.038834951456pt;" aria-label="COVES (3 items)">COVES
                                             </a>
-                                            <a href="https://skillman.eu/tag/crafts/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-818 tag-link-position-12"
                                                style="font-size: 9.2233009708738pt;" aria-label="crafts (2 items)">
                                                 crafts
                                             </a>
-                                            <a href="https://skillman.eu/tag/digital/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-303 tag-link-position-13"
                                                style="font-size: 10.038834951456pt;" aria-label="digital (3 items)">
                                                 digital
                                             </a>
-                                            <a href="https://skillman.eu/tag/eapril/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-689 tag-link-position-14"
                                                style="font-size: 9.2233009708738pt;" aria-label="eapril (2 items)">
                                                 eapril
                                             </a>
-                                            <a href="https://skillman.eu/tag/education-2/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-304 tag-link-position-15"
                                                style="font-size: 10.718446601942pt;" aria-label="education (4 items)">
                                                 education
                                             </a>
-                                            <a href="https://skillman.eu/tag/erasmus-2/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-209 tag-link-position-16"
                                                style="font-size: 10.038834951456pt;" aria-label="erasmus+ (3 items)">
                                                 erasmus+
                                             </a>
-                                            <a href="https://skillman.eu/tag/eu-commission/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-201 tag-link-position-17"
                                                style="font-size: 10.718446601942pt;"
                                                aria-label="EU Commission (4 items)">EU Commission
                                             </a>
-                                            <a href="https://skillman.eu/tag/european-commission/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-512 tag-link-position-18"
                                                style="font-size: 9.2233009708738pt;"
                                                aria-label="European Commission (2 items)">European Commission
                                             </a>
-                                            <a href="https://skillman.eu/tag/event/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-72 tag-link-position-19"
                                                style="font-size: 18.466019417476pt;" aria-label="Event (68 items)">Event
                                             </a>
-                                            <a href="https://skillman.eu/tag/high-level-meeting/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-200 tag-link-position-20"
                                                style="font-size: 9.2233009708738pt;"
                                                aria-label="high level meeting (2 items)">high level meeting
                                             </a>
-                                            <a href="https://skillman.eu/tag/industry-4-0/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-693 tag-link-position-21"
                                                style="font-size: 9.2233009708738pt;"
                                                aria-label="industry 4.0 (2 items)">industry 4.0
                                             </a>
-                                            <a href="https://skillman.eu/tag/interviews/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-86 tag-link-position-22"
                                                style="font-size: 17.718446601942pt;" aria-label="Interviews (53 items)">
                                                 Interviews
                                             </a>
-                                            <a href="https://skillman.eu/tag/iveta/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-680 tag-link-position-23"
                                                style="font-size: 9.2233009708738pt;" aria-label="iveta (2 items)">iveta
                                             </a>
-                                            <a href="https://skillman.eu/tag/learning/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-694 tag-link-position-24"
                                                style="font-size: 9.2233009708738pt;" aria-label="learning (2 items)">
                                                 learning
                                             </a>
-                                            <a href="https://skillman.eu/tag/meeting/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-819 tag-link-position-25"
                                                style="font-size: 9.2233009708738pt;" aria-label="meeting (2 items)">
                                                 meeting
                                             </a>
-                                            <a href="https://skillman.eu/tag/network/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-210 tag-link-position-26"
                                                style="font-size: 9.2233009708738pt;" aria-label="network (2 items)">
                                                 network
                                             </a>
-                                            <a href="https://skillman.eu/tag/news/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-35 tag-link-position-27"
                                                style="font-size: 19.417475728155pt;" aria-label="News (95 items)">News
                                             </a>
-                                            <a href="https://skillman.eu/tag/news-events/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-79 tag-link-position-28"
                                                style="font-size: 18.398058252427pt;"
                                                aria-label="News &amp; Events (67 items)">News &amp; Events
                                             </a>
-                                            <a href="https://skillman.eu/tag/november-2021/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-690 tag-link-position-29"
                                                style="font-size: 9.2233009708738pt;"
                                                aria-label="november 2021 (2 items)">november 2021
                                             </a>
-                                            <a href="https://skillman.eu/tag/open-call/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-36 tag-link-position-30"
                                                style="font-size: 9.2233009708738pt;" aria-label="Open call (2 items)">
                                                 Open call
                                             </a>
-                                            <a href="https://skillman.eu/tag/partners/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-80 tag-link-position-31"
                                                style="font-size: 18.126213592233pt;" aria-label="Partners (61 items)">
                                                 Partners
                                             </a>
-                                            <a href="https://skillman.eu/tag/polices/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-199 tag-link-position-32"
                                                style="font-size: 9.2233009708738pt;" aria-label="polices (2 items)">
                                                 polices
                                             </a>
-                                            <a href="https://skillman.eu/tag/presentations-and-dissemination/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-83 tag-link-position-33"
                                                style="font-size: 18.601941747573pt;"
                                                aria-label="Presentations and dissemination (71 items)">Presentations and
                                                 dissemination
                                             </a>
-                                            <a href="https://skillman.eu/tag/robotics/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-74 tag-link-position-34"
                                                style="font-size: 12.417475728155pt;" aria-label="Robotics (8 items)">
                                                 Robotics
                                             </a>
-                                            <a href="https://skillman.eu/tag/skillman/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-211 tag-link-position-35"
                                                style="font-size: 9.2233009708738pt;" aria-label="skillman (2 items)">
                                                 skillman
                                             </a>
-                                            <a href="https://skillman.eu/tag/skills/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-75 tag-link-position-36"
                                                style="font-size: 16.223300970874pt;" aria-label="Skills (31 items)">
                                                 Skills
                                             </a>
-                                            <a href="https://skillman.eu/tag/technological-trends/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-81 tag-link-position-37"
                                                style="font-size: 11.73786407767pt;"
                                                aria-label="Technological trends (6 items)">Technological trends
                                             </a>
-                                            <a href="https://skillman.eu/tag/tool/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-719 tag-link-position-38"
                                                style="font-size: 8pt;" aria-label="tool (1 item)">tool
                                             </a>
-                                            <a href="https://skillman.eu/tag/training/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-43 tag-link-position-39"
                                                style="font-size: 13.980582524272pt;" aria-label="training (14 items)">
                                                 training
                                             </a>
-                                            <a href="https://skillman.eu/tag/tvet-1/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-509 tag-link-position-40"
                                                style="font-size: 10.038834951456pt;" aria-label="TVET (3 items)">TVET
                                             </a>
-                                            <a href="https://skillman.eu/tag/video/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-46 tag-link-position-41"
                                                style="font-size: 18.26213592233pt;" aria-label="video (63 items)">video
                                             </a>
-                                            <a href="https://skillman.eu/tag/vitual-reality/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-691 tag-link-position-42"
                                                style="font-size: 9.2233009708738pt;"
                                                aria-label="vitual reality (2 items)">vitual reality
                                             </a>
-                                            <a href="https://skillman.eu/tag/webinar-1/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-298 tag-link-position-43"
                                                style="font-size: 10.038834951456pt;" aria-label="webinar (3 items)">
                                                 webinar
                                             </a>
-                                            <a href="https://skillman.eu/tag/welovemobility/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-394 tag-link-position-44"
                                                style="font-size: 22pt;" aria-label="welovemobility (230 items)">
                                                 welovemobility
                                             </a>
-                                            <a href="https://skillman.eu/tag/weloveskills/"
+                                            <a href="/"
                                                class="tag-cloud-link tag-link-281 tag-link-position-45"
                                                style="font-size: 22pt;" aria-label="weloveskills (230 items)">
                                                 weloveskills
@@ -2835,29 +2835,29 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         <div class="widget-title">Recent Posts</div>
                                         <ul>
                                             <li>
-                                                <a href="https://skillman.eu/skillman-riga-declaration-is-out-shaping-the-future-of-global-education-and-skills-development/">
+                                                <a href="/blog">
                                                     Skillman Riga Declaration is out: Shaping the Future of Global
                                                     Education and Skills Development
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="https://skillman.eu/20th-annual-international-scientific-conference-on-social-innovations-for-sustainable-regional-development/">
+                                                <a href="/blog">
                                                     20th Annual International Scientific Conference on Social
                                                     Innovations for Sustainable Regional Development
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="https://skillman.eu/d-challenghe-call-for-papers-digital-pedagogy-in-higher-education/">
+                                                <a href="/blog">
                                                     D-ChallengHE Call for Papers: Digital Pedagogy in Higher Education
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="https://skillman.eu/letter-of-thanks-from-yuriy-balanyuk-sif-2023/">
+                                                <a href="/blog">
                                                     Letter of thanks from Yuriy BALANYUK – SIF 2023
                                                 </a>
                                             </li>
                                             <li>
-                                                <a href="https://skillman.eu/tereza-khechoyan-participated-in-skillman-international-forum-in-riga/">
+                                                <a href="/blog">
                                                     Tereza Khechoyan Participated in Skillman International Forum in
                                                     Riga
                                                 </a>
@@ -2869,175 +2869,175 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                         <div class="widget-title">Categories</div>
                                         <ul>
                                             <li class="cat-item cat-item-148">
-                                                <a href="https://skillman.eu/category/additive-printing/">additive
+                                                <a href="/blog">additive
                                                     printing
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-70">
-                                                <a href="https://skillman.eu/category/best-practices/">Best practices
+                                                <a href="/blog">Best practices
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-707">
-                                                <a href="https://skillman.eu/category/bulletins-on-eu-funds-opportunities/">
+                                                <a href="/blog">
                                                     Bulletins on EU funds opportunities
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-10">
-                                                <a href="https://skillman.eu/category/thematic-commissions/composite-and-lightweight-materials/">
+                                                <a href="/blog">
                                                     Composite and lightweight materials
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-762">
-                                                <a href="https://skillman.eu/category/events/conferences/">Conferences
+                                                <a href="/blog">Conferences
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-763">
-                                                <a href="https://skillman.eu/category/events/courses/">Courses</a>
+                                                <a href="/blog">Courses</a>
                                             </li>
                                             <li class="cat-item cat-item-2">
-                                                <a href="https://skillman.eu/category/deliverables/">Deliverables</a>
+                                                <a href="/blog">Deliverables</a>
                                             </li>
                                             <li class="cat-item cat-item-153">
-                                                <a href="https://skillman.eu/category/digital-technologies/">digital
+                                                <a href="/blog">digital
                                                     technologies
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-322">
-                                                <a href="https://skillman.eu/category/downloads-1/">downloads</a>
+                                                <a href="/blog">downloads</a>
                                             </li>
                                             <li class="cat-item cat-item-312">
-                                                <a href="https://skillman.eu/category/ethics/">Ethics</a>
+                                                <a href="/blog">Ethics</a>
                                             </li>
                                             <li class="cat-item cat-item-11">
-                                                <a href="https://skillman.eu/category/events/">Events</a>
+                                                <a href="/blog">Events</a>
                                             </li>
                                             <li class="cat-item cat-item-553">
-                                                <a href="https://skillman.eu/category/global-coves/">Global CoVEs</a>
+                                                <a href="/blog">Global CoVEs</a>
                                             </li>
                                             <li class="cat-item cat-item-188">
-                                                <a href="https://skillman.eu/category/international-conferences/international-conference-san-sebastian-2017/">
+                                                <a href="/blog">
                                                     International Conference San Sebastian 2017
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-189">
-                                                <a href="https://skillman.eu/category/international-conferences/">
+                                                <a href="/blog">
                                                     International Conferences
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-12">
-                                                <a href="https://skillman.eu/category/thematic-commissions/interviews/">
+                                                <a href="/blog">
                                                     Interviews
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-190">
-                                                <a href="https://skillman.eu/category/presentations-and-dissemination/linkedin/">
+                                                <a href="/blog">
                                                     linkedin sharing
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-661">
-                                                <a href="https://skillman.eu/category/mep-ambassador/">MEP-Ambassador
+                                                <a href="/blog">MEP-Ambassador
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-672">
-                                                <a href="https://skillman.eu/category/news/">news</a>
+                                                <a href="/blog">news</a>
                                             </li>
                                             <li class="cat-item cat-item-69">
-                                                <a href="https://skillman.eu/category/newsletter/">Newsletter</a>
+                                                <a href="/blog">Newsletter</a>
                                             </li>
                                             <li class="cat-item cat-item-540">
-                                                <a href="https://skillman.eu/category/newsletter-2020/">Newsletter
+                                                <a href="/blog">Newsletter
                                                     2020
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-767">
-                                                <a href="https://skillman.eu/category/no-author/">No Author</a>
+                                                <a href="/blog">No Author</a>
                                             </li>
                                             <li class="cat-item cat-item-3">
-                                                <a href="https://skillman.eu/category/partners/">Partners</a>
+                                                <a href="/blog">Partners</a>
                                             </li>
                                             <li class="cat-item cat-item-4">
-                                                <a href="https://skillman.eu/category/presentations-and-dissemination/">
+                                                <a href="/blog">
                                                     Presentations and dissemination
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-535">
-                                                <a href="https://skillman.eu/category/skillman-publication/">
+                                                <a href="/blog">
                                                     Publication
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-5">
-                                                <a href="https://skillman.eu/category/quality/">Quality</a>
+                                                <a href="/blog">Quality</a>
                                             </li>
                                             <li class="cat-item cat-item-321">
-                                                <a href="https://skillman.eu/category/reports-1/">reports</a>
+                                                <a href="/blog">reports</a>
                                             </li>
                                             <li class="cat-item cat-item-13">
-                                                <a href="https://skillman.eu/category/thematic-commissions/robotics/">
+                                                <a href="/blog">
                                                     Robotics
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-1">
-                                                <a href="https://skillman.eu/category/senza-categoria/">Senza
+                                                <a href="/blog">Senza
                                                     categoria
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-405">
-                                                <a href="https://skillman.eu/category/international-conferences/sif-2019/">
+                                                <a href="/blog">
                                                     SIF 2019
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-149">
-                                                <a href="https://skillman.eu/category/skills-anticipation/">skills
+                                                <a href="/blog">skills
                                                     anticipation
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-765">
-                                                <a href="https://skillman.eu/category/events/study-visits/">Study
+                                                <a href="/blog">Study
                                                     Visits
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-95">
-                                                <a href="https://skillman.eu/category/success-stories/">Success
+                                                <a href="/blog">Success
                                                     Stories
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-14">
-                                                <a href="https://skillman.eu/category/thematic-commissions/technological-trends/">
+                                                <a href="/blog">
                                                     Technological trends
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-6">
-                                                <a href="https://skillman.eu/category/thematic-commissions/">Thematic
+                                                <a href="/blog">Thematic
                                                     Commissions
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-323">
-                                                <a href="https://skillman.eu/category/transnational-mobility/">
+                                                <a href="/blog">
                                                     transnational mobility
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-7">
-                                                <a href="https://skillman.eu/category/uncategorized/">Uncategorized</a>
+                                                <a href="/blog">Uncategorized</a>
                                             </li>
                                             <li class="cat-item cat-item-8">
-                                                <a href="https://skillman.eu/category/video/">Video</a>
+                                                <a href="/blog">Video</a>
                                             </li>
                                             <li class="cat-item cat-item-526">
-                                                <a href="https://skillman.eu/category/video/webinar-2/">Webinar 2</a>
+                                                <a href="/blog">Webinar 2</a>
                                             </li>
                                             <li class="cat-item cat-item-555">
-                                                <a href="https://skillman.eu/category/webin/">Webinar invitation</a>
+                                                <a href="/blog">Webinar invitation</a>
                                             </li>
                                             <li class="cat-item cat-item-761">
-                                                <a href="https://skillman.eu/category/events/webinars/">Webinars</a>
+                                                <a href="/blog">Webinars</a>
                                             </li>
                                             <li class="cat-item cat-item-9">
-                                                <a href="https://skillman.eu/category/thematic-commissions/wireless-and-digital-transformation-of-production-processes/">
+                                                <a href="/blog">
                                                     Wireless and digital transformation of production processes
                                                 </a>
                                             </li>
                                             <li class="cat-item cat-item-766">
-                                                <a href="https://skillman.eu/category/events/workshops/">Workshops</a>
+                                                <a href="/blog">Workshops</a>
                                             </li>
                                         </ul>
 
@@ -3384,7 +3384,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">CSCS</span>-->
 <!--                                                            </span>-->
@@ -3426,7 +3426,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">TEC</span>-->
 <!--                                                            </span>-->

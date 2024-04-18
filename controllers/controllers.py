@@ -2,12 +2,23 @@
 from odoo import http
 from odoo.http import request
 
+try:
+    from bs4 import BeautifulSoup
+except ImportError:
+    raise ImportError(
+        "The 'bs4' library is required for this functionality. Please install it using 'pip install bs4'.")
+
 
 class SkillmanWebsite(http.Controller):
     @http.route('/', auth='public', type='http', website=True)
     def home(self, **kw):
+        blogs = request.env['blog.post'].search([], limit=6)
+        for blog in blogs:
+            content = BeautifulSoup(blog.content, 'html.parser').get_text()
+            new_blog = request.env['blog.post'].search([('id', '=', blog.id)])
+            new_blog.write({'content': content.replace('\n', '')})
         values = {
-            'blogs': request.env['blog.post'].search([], limit=6)
+            'blogs': blogs
         }
         return http.request.render('skillman_website.home', values)
 
@@ -59,7 +70,7 @@ class SkillmanWebsite(http.Controller):
     def partnership(self, **kw):
         return http.request.render('skillman_website.include_skillman_in_a_new_project_partnership')
 
-    @http.route('/submit-your-idea', auth='public', type='http', website=True)
+    @http.route('/submit_your_idea', auth='public', type='http', website=True)
     def idea(self, **kw):
         return http.request.render('skillman_website.submit_your_idea')
 
@@ -259,6 +270,20 @@ class SkillmanWebsite(http.Controller):
     @http.route('/the-conference', auth='public', type='http', website=True)
     def the_conference(self, **kw):
         return http.request.render('skillman_website.the_conference')
+
+    @http.route('/the-skillman$$$', auth='public', type='http', website=True)
+    def the_skillman(self, **kw):
+        return http.request.render('skillman_website.the-skillman$$$')
+
+    @http.route('/youth_participation', auth='public', type='http', website=True)
+    def youth_participation(self, **kw):
+        return http.request.render('skillman_website.youth_participation')
+
+    @http.route('/innovation_in_tvet', auth='public', type='http', website=True)
+    def innovation_in_tvet(self, **kw):
+        return http.request.render('skillman_website.innovation_in_tvet')
+
+
 
 #     @http.route('/skillman_website/skillman_website/objects/', auth='public')
 #     def list(self, **kw):

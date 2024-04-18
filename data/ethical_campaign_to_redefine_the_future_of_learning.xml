@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template id="ethical_campaign_to_redefine_the_future_of_learning" name="skillman_web">
-        <!--                <t t-call="website.layout">-->
+                        <t t-call="website.layout">
         <head>
             <meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
@@ -999,7 +999,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">CSCS</span>-->
 <!--                                                            </span>-->
@@ -1041,7 +1041,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">TEC</span>-->
 <!--                                                            </span>-->
@@ -1844,7 +1844,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         </a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">
-                                                        <a href="https://skillman.eu/cscs/" data-level="4">
+                                                        <a href="/cscs" data-level="4">
                                                             <span class="menu-item-text">
                                                                 <span class="menu-text">CSCS</span>
                                                             </span>
@@ -1886,7 +1886,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         </a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-                                                        <a href="https://skillman.eu/tec-5/" data-level="4">
+                                                        <a href="/tec-5" data-level="4">
                                                             <span class="menu-item-text">
                                                                 <span class="menu-text">TEC</span>
                                                             </span>
@@ -2533,7 +2533,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                                     <div class="wpb_single_image wpb_content_element vc_align_left">
 
                                                                         <figure class="wpb_wrapper vc_figure">
-                                                                            <a href="http://www.skillman.eu"
+                                                                            <a href="/"
                                                                                target="_self"
                                                                                class="vc_single_image-wrapper vc_box_border_grey rollover this-ready"
                                                                                data-large_image_width="900"
@@ -3018,7 +3018,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         <div class="wpb_wrapper">
                                                             <p>
                                                                 <span style="font-weight: 400;">The campaign is
-                                                                    organised by <a href="http://www.skillman.eu">
+                                                                    organised by <a href="/">
                                                                         Skillman.eu</a>, <a href="http://www.iveta.org">
                                                                         IVETA</a>. <a href="http://www.aer.org">AER</a> and <a
                                                                             href="http://www.eapril.org">EAPRIL</a>. It
@@ -3391,7 +3391,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">CSCS</span>-->
 <!--                                                            </span>-->
@@ -3433,7 +3433,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">TEC</span>-->
 <!--                                                            </span>-->
@@ -3897,6 +3897,6 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
             </div>
         </body>
 
-        <!--                </t>-->
+                        </t>
     </template>
 </odoo>

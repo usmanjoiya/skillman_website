@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template id="skillman_advisory_service" name="skillman_web">
-        <!--                <t t-call="website.layout">-->
+                        <t t-call="website.layout">
         <head>
             <meta charset="UTF-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
@@ -1019,7 +1019,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">CSCS</span>-->
 <!--                                                            </span>-->
@@ -1061,7 +1061,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">TEC</span>-->
 <!--                                                            </span>-->
@@ -1837,7 +1837,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         </a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">
-                                                        <a href="https://skillman.eu/cscs/" data-level="4">
+                                                        <a href="/cscs" data-level="4">
                                                             <span class="menu-item-text">
                                                                 <span class="menu-text">CSCS</span>
                                                             </span>
@@ -1879,7 +1879,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                                                         </a>
                                                     </li>
                                                     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-                                                        <a href="https://skillman.eu/tec-5/" data-level="4">
+                                                        <a href="/tec-5" data-level="4">
                                                             <span class="menu-item-text">
                                                                 <span class="menu-text">TEC</span>
                                                             </span>
@@ -3387,7 +3387,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/cscs/" data-level="4">-->
+<!--                                                        <a href="/cscs" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">CSCS</span>-->
 <!--                                                            </span>-->
@@ -3429,7 +3429,7 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
 <!--                                                        </a>-->
 <!--                                                    </li>-->
 <!--                                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--                                                        <a href="https://skillman.eu/tec-5/" data-level="4">-->
+<!--                                                        <a href="/tec-5" data-level="4">-->
 <!--                                                            <span class="menu-item-text">-->
 <!--                                                                <span class="menu-text">TEC</span>-->
 <!--                                                            </span>-->
@@ -3892,6 +3892,6 @@ var dtShare = {"shareButtonText":{"facebook":"Share on Facebook","twitter":"Twee
                 <div class="dt-posts-preload-activity"></div>
             </div>
         </body>
-        <!--                </t>-->
+                        </t>
     </template>
 </odoo>

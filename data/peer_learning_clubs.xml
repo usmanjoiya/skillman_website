@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
     <template id="peer_learning_clubs" name="skillman_website">
+		<t t-call="website.layout">
 
 <head>
 	<meta charset="UTF-8" />
@@ -1320,7 +1321,7 @@
 <!--															company)</span></span></a></li>-->
 <!--											<li-->
 <!--												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">-->
-<!--												<a href='https://skillman.eu/cscs/' data-level='4'><span-->
+<!--												<a href='/cscs' data-level='4'><span-->
 <!--														class="menu-item-text"><span-->
 <!--															class="menu-text">CSCS</span></span></a></li>-->
 <!--											<li-->
@@ -1350,7 +1351,7 @@
 <!--															class="menu-text">SAS</span></span></a></li>-->
 <!--											<li-->
 <!--												class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">-->
-<!--												<a href='https://skillman.eu/tec-5/' data-level='4'><span-->
+<!--												<a href='"/tec-5"' data-level='4'><span-->
 <!--														class="menu-item-text"><span-->
 <!--															class="menu-text">TEC</span></span></a></li>-->
 <!--										</ul>-->
@@ -1809,7 +1810,7 @@
 														company)</span></span></a></li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36980 depth-3">
-											<a href='https://skillman.eu/cscs/' data-level='4'><span
+											<a href='/cscs' data-level='4'><span
 													class="menu-item-text"><span
 														class="menu-text">CSCS</span></span></a></li>
 										<li
@@ -1839,7 +1840,7 @@
 										</li>
 										<li
 											class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36985 depth-3">
-											<a href='https://skillman.eu/tec-5/' data-level='4'><span
+											<a href='"/tec-5"' data-level='4'><span
 													class="menu-item-text"><span class="menu-text">TEC</span></span></a>
 										</li>
 									</ul>
@@ -2076,7 +2077,7 @@
 							<ul class="sub-nav gradient-hover hover-style-bg level-arrows-on">
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44348 first depth-2">
-									<a href='https://skillman.eu/peer-learning-club-1-advanced-manufacturing-sector-publication/'
+									<a href='/peer-learning-club-1-advanced-manufacturing-sector-publication'
 										data-level='3'><span class="menu-item-text"><span class="menu-text">Peer
 												Learning Club 1- Advanced Manufacturing Sector</span></span></a></li>
 								<li
@@ -2087,13 +2088,13 @@
 								</li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44391 depth-2">
-									<a href='https://skillman.eu/peer-learning-club-3-work-based-learning-and-standards/'
+									<a href='/peer-learning-club-3-work-based-learning-and-standards'
 										data-level='3'><span class="menu-item-text"><span class="menu-text">Peer
 												Learning Club 3 – Work-based learning and standards</span></span></a>
 								</li>
 								<li
 									class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44390 depth-2">
-									<a href='https://skillman.eu/peer-learning-club-4-train-the-trainers/'
+									<a href='/peer-learning-club-4-train-the-trainers'
 										data-level='3'><span class="menu-item-text"><span class="menu-text">Peer
 												Learning Club 4 – Train the trainers</span></span></a></li>
 							</ul>
@@ -2458,7 +2459,7 @@
 													<p class="" style="font-weight:normal;color:#ffffff;">Sectoral
 														dimension</p>
 												</div><a class="bb-link"
-													href="https://skillman.eu/plc1-advanced-manufacturing-sector/"
+													href="/peer-learning-club-1-advanced-manufacturing-sector-publication"
 													target="_blank" rel="noopener"></a>
 											</div>
 											<div class="vc_btn3-container  joinplcbuttons vc_btn3-center"><a
@@ -2491,7 +2492,7 @@
 													<p class="" style="font-weight:normal;color:#ffffff;">Empowerment
 														&amp; social equity</p>
 												</div><a class="bb-link"
-													href="https://skillman.eu/plc2-advocacy-policy-influencing/"
+													href="/peer-learning-club-2-advocacy-policy-influencing"
 													target="_blank" rel="noopener"></a>
 											</div>
 											<div class="vc_btn3-container vc_btn3-center"><a
@@ -2523,7 +2524,7 @@
 													<p class="" style="font-weight:normal;color:#ffffff;">QA and
 														curricular dimension</p>
 												</div><a class="bb-link"
-													href="https://skillman.eu/plc3-work-based-learning-and-standards/"
+													href="/peer-learning-club-3-work-based-learning-and-standards"
 													target="_blank" rel="noopener"></a>
 											</div>
 											<div class="vc_btn3-container vc_btn3-center"><a
@@ -2556,7 +2557,7 @@
 													<p class="" style="font-weight:normal;color:#ffffff;">Operational
 														dimension</p>
 												</div><a class="bb-link"
-													href="https://skillman.eu/plc4-train-the-trainers/" target="_blank"
+													href="/peer-learning-club-4-train-the-trainers" target="_blank"
 													rel="noopener"></a>
 											</div>
 											<div class="vc_btn3-container vc_btn3-center"><a
@@ -2640,7 +2641,7 @@
 											<div class="wpb_single_image wpb_content_element vc_align_center">
 
 												<figure class="wpb_wrapper vc_figure">
-													<a href="https://skillman.eu/peer-learning-club-1-advanced-manufacturing-sector-publication/"
+													<a href="/peer-learning-club-1-advanced-manufacturing-sector-publication"
 														target="_self"
 														class="vc_single_image-wrapper   vc_box_border_grey rollover"
 														data-large_image_width="512" data-large_image_height="512"><img
@@ -2660,7 +2661,7 @@
 											<div class="wpb_single_image wpb_content_element vc_align_center">
 
 												<figure class="wpb_wrapper vc_figure">
-													<a href="https://skillman.eu/peer-learning-club-2-advocacy-policy-influencing/"
+													<a href="/peer-learning-club-2-advocacy-policy-influencing"
 														target="_self"
 														class="vc_single_image-wrapper   vc_box_border_grey rollover"
 														data-large_image_width="512" data-large_image_height="512"><img
@@ -2680,7 +2681,7 @@
 											<div class="wpb_single_image wpb_content_element vc_align_center">
 
 												<figure class="wpb_wrapper vc_figure">
-													<a href="https://skillman.eu/peer-learning-club-3-work-based-learning-and-standards/"
+													<a href="/peer-learning-club-3-work-based-learning-and-standards"
 														target="_self"
 														class="vc_single_image-wrapper   vc_box_border_grey rollover"
 														data-large_image_width="512" data-large_image_height="512"><img
@@ -2700,7 +2701,7 @@
 											<div class="wpb_single_image wpb_content_element vc_align_center">
 
 												<figure class="wpb_wrapper vc_figure">
-													<a href="https://skillman.eu/peer-learning-club-4-train-the-trainers/"
+													<a href="/peer-learning-club-4-train-the-trainers"
 														target="_self"
 														class="vc_single_image-wrapper   vc_box_border_grey rollover"
 														data-large_image_width="512" data-large_image_height="512"><img
@@ -2957,5 +2958,6 @@
 		</div>
 	</div>
 </body>
+		</t>
     </template>
 </odoo>

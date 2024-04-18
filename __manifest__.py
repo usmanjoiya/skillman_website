@@ -20,7 +20,7 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base','website','website_blog'],
+    'depends': ['base', 'website', 'website_blog'],
 
     # always loaded
     'data': [
@@ -92,9 +92,13 @@
         'data/eef.xml',
         'data/iu.xml',
         'data/awards-candidatures.xml',
+        'data/the-skillman$$$.xml',
+        'data/youth_participation.xml',
+        'data/innovation_in_tvet.xml',
+
     ],
     # only loaded in demonstration mode
-     # only loaded in demonstration mode
+    # only loaded in demonstration mode
     'demo': [
         'demo/demo.xml',
     ],
